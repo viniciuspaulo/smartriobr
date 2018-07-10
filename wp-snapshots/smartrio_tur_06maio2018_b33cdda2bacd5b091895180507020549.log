@@ -1,0 +1,50 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 7 de May de 2018 02:07
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.36
+WORDPRESS:	4.9.4
+PHP INFO:	7.0.28 | SAPI: litespeed
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (512M default) 
+MEMORY STACK: 96MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:43 | filtered:0 | create:43 
+FILTERED: [] 
+SQL CREATED: smartrio_tur_06maio2018_b33cdda2bacd5b091895180507020549_database.sql 
+SQL FILE SIZE: 15MB (15725332) 
+SQL FILE TIME: 2018-05-07 02:08:10 
+SQL RUNTIME: 12.17 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/u849905850/public_html 
+ARCHIVE FILE: smartrio_tur_06maio2018_b33cdda2bacd5b091895180507020549_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	301.26MB 
+STATS:	Dirs 2,069 | Files 14,717 
+SQL ADDED: smartrio_tur_06maio2018_b33cdda2bacd5b091895180507020549_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 16786
+    [filename] => /home/u849905850/public_html/wp-snapshots/tmp/smartrio_tur_06maio2018_b33cdda2bacd5b091895180507020549_archive.zip
+    [comment] => 
+)
+ 

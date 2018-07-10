@@ -1,0 +1,1887 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Translator Revolution\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-14 11:19+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Prisna\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: /home/dev/site/wp-content/plugins/wp-translator-revolution\n"
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:88
+msgid "Plugin Settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:251
+msgid "No settings to export. The current settings are the default ones."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:315
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:348
+msgid "Version information"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:316
+msgid "Installed version:"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:317
+msgid "Latest available version:"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:318
+msgid "Check Version"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:319
+msgid "Update"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:320
+msgid "Get verified below, and update the plugin with a single click!"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:321
+msgid "What's new?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:322
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6500
+msgid "The latest version of the plugin is already installed on this site."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:323
+msgid "You're about to update the plugin. Do you want to continue?."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:332
+#, php-format
+msgid "Would you like %s, %s and %s?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:332
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:339
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:342
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:343
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1576
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6978
+msgid "Online Backups"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:332
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:340
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:344
+msgid "Priority Support"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:332
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:341
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:347
+msgid "Live Updates"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:333
+msgid "Activate Now | Why?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:334
+msgid "Register"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:335
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:372
+msgid "Verify"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:336
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:373
+msgid "Back"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:337
+#, php-format
+msgid ""
+"On September 2015, Envato launched the %s. This means you're entitled to "
+"have 6 or 12 months of support on your purchased Items. After this period "
+"you won't be able to activate these extended features unless you purchase an "
+"extension package."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:337
+msgid "Item Support Policy"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:338
+msgid "Get verified to unlock the following features:"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:339
+#, php-format
+msgid ""
+"%s: Backup your settings and custom translations online with a single click."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:340
+#, php-format
+msgid ""
+"%s: Have the upper hand and get your support delieverd even faster. Weekends "
+"included!"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:341
+#, php-format
+msgid ""
+"%s: Get the latest version of our plugin. New features and bug fixes are "
+"available regularly."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:343
+#, php-format
+msgid ""
+"Backing up your settings and translations has never been easier. The %s tab "
+"in the plugin's admin settings is enabled now."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:345
+#, php-format
+msgid "Include your priotiry PIN when asking for support in %s"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:346
+msgid "Priority PIN:"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:348
+#, php-format
+msgid ""
+"Now you can update the plugin in no time and no effort! Check the above %s "
+"section, a new <em>Update</em> button is displayed."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:349
+msgid "E-mail address"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:350
+msgid "An activation e-mail will be sent immediately"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:351
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:403
+msgid "Item Purchase Code"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:352
+#, php-format
+msgid "You can find your code by following the instructions on %s"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:352
+msgid "this page"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:353
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:377
+msgid "Verification code"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:354
+msgid "Enter the 32 characters verification code"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:355
+msgid "Congratulations, the extended features are activated!"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:356
+#, php-format
+msgid ""
+"An email has been sent to your %s e-mail address.%sIf you don't see it in "
+"your INBOX, make sure to check your SPAM folder."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:369
+msgid "Newsletter"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:370
+msgid "Why subscribe?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:371
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:375
+msgid "Subscribe"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:374
+msgid "Unsubscribe"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:376
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:378
+#, php-format
+msgid ""
+"An email has been sent to your %s e-mail address.<br />If you don't see it "
+"in your INBOX, make sure to check your SPAM folder."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:379
+msgid "Subscribe to our newsletter and be notified on:"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:380
+msgid "Information about new plugin releases."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:381
+msgid "Polls and surveys that help us increase the quality of our plugin."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:382
+msgid "You may unsubscribe any time!"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:404
+msgid ""
+"\n"
+"\t\t\tEnter your Item Purchase Code. To find it see the <a href=\"http://www."
+"surstudio.net/translator-revolution-wordpress-plugin/installation/\" target="
+"\"_blank\">Installation Guide</a>.\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:414
+msgid "Website's language"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:415
+msgid "Sets the website's source language."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:425
+msgid "Available languages"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:426
+msgid "Sets the available languages."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:427
+msgid "Languages order"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:428
+msgid "Defines the order to display the languages."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:439
+msgid "Languages in their own language"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:440
+msgid ""
+"Sets whether to display the languages names in their own language, or not. "
+"To define custom names, use the following setting:<br /><br /><div class="
+"\"surstudio_plugin_translator_revolution_lite_code_container"
+"\"><code>Advanced &gt; Other customizations &gt; Custom languages names</"
+"code></div>"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:445
+msgid "Yes, display languages in their own language"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:446
+msgid "No, display languages in English"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:452
+msgid "Interface"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:461
+msgid "Round corners"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:462
+msgid "Sets whether to round the corners of the main container."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:468
+msgid "Yes, round the corners of the main container"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:469
+msgid "No, don't round the corners of the main container"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:477
+msgid "Align mode"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:478
+msgid "Sets the alignment mode of the languages."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:484
+msgid "Left"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:485
+msgid "Center"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:486
+msgid "Right"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:494
+msgid "Remember the selected language for auto-translate"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:495
+msgid ""
+"Sets whether the selected language should be remembered (in a cookie) after "
+"a page is refreshed or not. If it's set and the visitor continues browsing, "
+"the website will be automatically translated."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:501
+msgid "Yes, remember the selected language to auto-translate"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:502
+msgid "No, don't remember the selected language and don't auto-translate"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:510
+msgid "Remember even after the browser is closed"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:511
+msgid ""
+"Sets whether the <code>Remember the selected language for auto-translate</"
+"code> should be kept after the visitor's browser is closed or not."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:517
+msgid "Yes, remember even after the browser is closed"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:518
+msgid "No, don't remember after the browser is closed"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:526
+msgid "Flags"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:527
+msgid "Sets whether the languages flags should be displayed or not."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:533
+msgid "Yes, display the images flags"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:534
+msgid "No, don't display the images flags"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:542
+msgid "Names"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:543
+msgid "Sets whether the languages names should be displayed or not."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:549
+msgid "Yes, display the languages names"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:550
+msgid "No, don't display the languages names"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:558
+msgid "Short names"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:559
+msgid ""
+"Sets whether the languages names should be displayed in short mode or not."
+"<br />For instance: EN, ES, DA."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:565
+msgid "Yes, display the languages names in short mode"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:566
+msgid "No, display the languages full names"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:574
+msgid "Hide name or flag"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:575
+msgid ""
+"Sets whether to hide the language name or the language flag for lower "
+"resolutions, or not."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:581
+msgid "Hide the language name"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:582
+msgid "Hide the language flag"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:583
+msgid "Don't hide anything"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:591
+msgid "Hide on screen width"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:592
+msgid "Defines a maximum width in pixels to trigger the above setting."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:596
+msgid "pixels"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:607
+msgid "Loading image"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:608
+msgid ""
+"Sets whether the loading class should be set or not. If it's set, a style "
+"class (defined in the <code>Loading class</code> setting) will be added to "
+"the clicked language's link. By default, the class displays an animated "
+"image indicating the loading."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:614
+msgid "Yes, display the loading animated image"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:615
+msgid "No, don't display the loading animated image"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:623
+msgid "Restore button"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:624
+msgid ""
+"\n"
+"\t\t\tSets whether the restore button should be displayed or not. By "
+"clicking the <code>Restore</code> button, all the selected text will be "
+"restored to their original content, and will clear the <code>Remember "
+"(cookie)</code> setting too.\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:632
+msgid "Yes, display the restore button"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:633
+msgid "No, don't display the restore button"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:641
+msgid "Completed image"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:642
+msgid ""
+"Sets whether the completed class should be set or not. If it's set, a style "
+"class (defined in the <code>Completed class</code> setting) will be added to "
+"the clicked language. By default, the class displays an image indicating the "
+"end of the translation process."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:648
+msgid "Yes, display the completed image"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:649
+msgid "No, don't display the completed image"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:657
+msgid "Auto select language"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:658
+msgid ""
+"\n"
+"\t\t\tAutomatically selects the page's language when it's loaded, just to "
+"provide visual aids.\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:666
+msgid "Yes, auto select the language option"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:667
+msgid "No, don't auto select the language option"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:675
+msgid "Select and exclude sections"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:684
+msgid "Target selector (jQuery)"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:685
+msgid ""
+"Select those elements to be translated. In jQuery format. For more info, "
+"check the <a href=\"http://api.jquery.com/category/selectors/\">jQuery "
+"selector guide</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:696
+msgid "Exclude selector (jQuery)"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:697
+msgid ""
+"Select those elements to NOT be translated. In jQuery format. For more info, "
+"check the <a href=\"http://api.jquery.com/category/selectors/\">jQuery "
+"selector guide</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:708
+msgid "Hide on pages, posts and categories"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:717
+msgid "Pages"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:718
+msgid "Selects the pages where the translator should not be displayed."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:728
+msgid "Posts"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:729
+msgid "Selects the posts where the translator should not be displayed."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:739
+msgid "Categories"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:740
+msgid "Selects the categories where the translator should not be displayed."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:750
+msgid "Test mode"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:751
+msgid ""
+"\n"
+"\t\t\tSets whether the translator is in test mode or not. In \"test mode\", "
+"the translator will be displayed only if the current logged in user has "
+"admin privileges.<br />\n"
+"\t\t\tIs useful for setting up the translator without letting visitors to "
+"see the changes while the plugin is being implemented.\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:759
+msgid "Yes, enable test mode"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:760
+msgid "No, disable test mode"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:766
+msgid "Location"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:767
+msgid ""
+"\n"
+"\t\t\tSets translator location.\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:775
+#, php-format
+msgid "Widget (see <a href=\"%s\">Appearance > Widgets</a>)"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:776
+msgid "Custom"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:777
+msgid "On top"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:783
+msgid "Widget class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:784
+msgid "Sets the style class used on the widget's placeholder."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:794
+msgid "Widget container id"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:795
+msgid "Sets the internal widget's container <code>id</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:806
+msgid "Custom location (jQuery)"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:807
+msgid ""
+"Specifies a location to place the translator. In jQuery format. For more "
+"info, check the <a href=\"http://api.jquery.com/category/selectors/\">jQuery "
+"selector guide</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:818
+msgid "Insert mode"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:819
+msgid ""
+"Specifies how the translator (or the <code>Custom parent</code>) will be "
+"inserted into the <code>Custom location</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:836
+msgid "Custom parent"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:837
+msgid ""
+"Specifies a custom parent element container (or set) to hold the translator."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:859
+msgid "Custom CSS"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:860
+msgid "Defines custom CSS rules."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:868
+msgid "Local storage"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:877
+msgid "Enable local storage"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:878
+msgid ""
+"Sets whether the translations should be stored in the visitor's browser to "
+"speed up the plugin, or not. This feature is available on modern browsers "
+"only, it won't cause any impact on old browsers. However, it forces the "
+"visitor's browser to use an extra amount of memory, therefore, it might slow "
+"it down depending on how many translations are being stored."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:884
+msgid "Yes, enable local storage"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:885
+msgid "No, don't enable local storage"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:893
+msgid "Expiration period"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:894
+msgid "Sets an expiration period for the stored translations, in days."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:898
+msgid "days"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:909
+msgid "Clear local storage"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:910
+msgid ""
+"Sets whether to force the visitor's browser to clear up the stored "
+"translations and retrieve them again from the server, or not. This setting "
+"is useful when writing custom translations."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:916
+msgid "Yes, force browsers to clear up the stored translations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:917
+msgid "No, don't force browsers to clear up the stored translations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:925
+msgid "Style classes"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:934
+msgid "Container class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:935
+msgid "Sets the style class to be added to the translator's container."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:946
+msgid "Container class (custom location)"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:947
+msgid ""
+"Sets the style class to be added to the translator's container. Only applies "
+"if Custom Location is set."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:958
+msgid "Sub container class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:959
+msgid "Sets the style class to be added to the translator's sub container."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:970
+msgid "Loading class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:971
+msgid ""
+"Sets the style class to be added to the clicked language's link while the "
+"translation takes place."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:982
+msgid "Completed class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:983
+msgid ""
+"Sets the style class to be added to the clicked language's link when the "
+"translation is completed."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:994
+msgid "Restore class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:995
+msgid "Sets the style class to be added to the restore button."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1006
+msgid "Restore container class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1007
+msgid "Sets the style class to be added to the restore button's container."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1018
+msgid "Align left class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1019
+msgid ""
+"Sets the style class to be added to the translator's container when the "
+"<code>Align mode</code> setting is set to <code>Left</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1030
+msgid "Align right class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1031
+msgid ""
+"Sets the style class to be added to the translator's container when the "
+"<code>Align mode</code> setting is set to <code>Right</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1042
+msgid "Flags class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1043
+msgid ""
+"Adds a style class to the translator's main container when is showing only "
+"languages flags."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1054
+msgid "Flags and names class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1055
+msgid ""
+"Adds a style class to the translator's main container when is showing "
+"languages flags and names."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1066
+msgid "Flags and short names class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1067
+msgid ""
+"Adds a style class to the translator's main container when is showing "
+"languages flags and short names."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1078
+msgid "Names class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1079
+msgid ""
+"Adds a style class to the translator's main container when is showing only "
+"languages names."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1090
+msgid "Short names class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1091
+msgid ""
+"Adds a style class to the translator's main container when is showing only "
+"languages short names."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1102
+msgid "Hide class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1103
+msgid "Sets the style class used to hide elements."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1114
+msgid "Language selector class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1115
+msgid ""
+"\n"
+"\t\t\tSets the style class used to identify the selected language. The "
+"language code will be concatenated:<br />\n"
+"\t\t\t<div class=\"surstudio_plugin_translator_revolution_lite_code_container"
+"\"><code>&lt;a class=\"<b>translator-language-</b>en\" title=\"English\" "
+"href=\"javascript:;\"&gt;&lt;img alt=\"English\" src=\"../translator/images/"
+"English.gif\"&gt;&lt;span&gt;English&lt;/span&gt;&lt;/a&gt;</code></div>\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1129
+msgid "Round corners class"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1130
+msgid ""
+"Sets the style class to be added to the translator's main container when the "
+"corners are rounded."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1141
+msgid "Templates"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1150
+msgid "Flag template"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1151
+msgid ""
+"Sets the language's flag template. New templates can be created if the "
+"provided one doesn't fit the web page requirements."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1162
+msgid "Link template"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1163
+msgid ""
+"Sets the language's link template. New templates can be created if the "
+"provided one doesn't fit the web page requirements."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1176
+msgid "Links container template"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1177
+msgid ""
+"Sets the languages links container template. New templates can be created if "
+"the provided one doesn't fit the web page requirements."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1194
+msgid "Name template"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1195
+msgid ""
+"Sets the language's name template. New templates can be created if the "
+"provided one doesn't fit the web page requirements."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1206
+msgid "Restore template"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1207
+msgid ""
+"Sets the restore button's template. New templates can be created if the "
+"provided one doesn't fit the web page requirements."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1220
+msgid "Javascript callbacks"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1229
+msgid "On before initialize callback"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1230
+msgid ""
+"Sets a callback function that runs before the translator is initialized. "
+"Receives two arguments: <code>translator, options</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1241
+msgid "On initialize callback"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1242
+msgid ""
+"Sets a callback function that runs when the translator is being initialized. "
+"Receives two arguments: <code>translator, options</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1253
+msgid "On start callback"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1254
+msgid ""
+"Sets a callback function that runs when the translation starts. Receives "
+"five arguments: <code>filtered_elements, source, from, to, options</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1265
+msgid "On complete callback"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1266
+msgid ""
+"Sets a callback function that runs when the translation is completed. "
+"Receives seven arguments: <code>filtered_elements, translation, source, "
+"from, to, options, restore</code>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1277
+msgid "Other customizations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1286
+msgid "Id"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1287
+msgid ""
+"\n"
+"\t\t\tSets the internal <code>id</code> unique value. \n"
+"\t\t\tIt could also be used for custom styling purposes, since the "
+"translator id will be placed in the container's class attribute:<br />\n"
+"\t\t\t<div class=\"surstudio_plugin_translator_revolution_lite_code_container"
+"\"><code>&lt;div class=\"translator translator-container <b>&lt;id&gt;</b> "
+"translator-names\"&gt;</code></div>\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1302
+msgid "Requests"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1303
+msgid ""
+"Sets the maximum number of requests sent to the API at the same time. A high "
+"number of requests will translate the page faster, but might hang or even "
+"crash the internet browser."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1307
+msgid "requests"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1318
+msgid "Auto load jQuery"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1319
+msgid ""
+"Sets whether the jQuery library should be loaded if it is not detected or "
+"not."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1324
+msgid "Yes, auto load the jQuery library"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1325
+msgid "No, don't auto load the jQuery library"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1333
+msgid "jQuery URL"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1334
+msgid ""
+"Sets jQuery location on the internet, could be a CDN (default value) or any "
+"other URL."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1344
+msgid "Languages separator"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1345
+msgid ""
+"\n"
+"\t\t\tSets a separator between the languages options.<br />\n"
+"\t\t\tIn order to optimize browser compatibility, the translator is built "
+"based on a table, so the separator will usually be a table cell (unless the "
+"templates are changed).<br />\n"
+"\t\t\tFor instance:<br /><br />\n"
+"\t\t\t<code>&lt;td&gt;|&lt;/td&gt;</code><br /><br />\n"
+"\t\t\tOr:<br /><br />\n"
+"\t\t\t<code>&lt;td&gt;Â·&lt;/td&gt;</code>\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1363
+msgid "Custom HTML"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1364
+msgid ""
+"\n"
+"\t\t\tSpecifies a custom HTML to represent the translator.\n"
+"\t\t\tIf it doesn't find at least one element which <code>class</code> "
+"attribute contains the value: <code>Language selector class</code> + "
+"<code>&lt;language_code&gt;</code>, the content of the container element "
+"will be replaced by the translator's structure.<br />\n"
+"\t\t\tIn order to have the <code>Restore</code> button working, the element "
+"<code>class</code> attribute should contain the <code>Restore class</code> "
+"value and its main parent should contain <code>Restore container class</"
+"code> value too.<br />\n"
+"\t\t\tFor instance:<br /><br />\n"
+"\t\t\t<div class=\"surstudio_plugin_translator_revolution_lite_code_container"
+"\">\n"
+"\t\t\t\t<code>\n"
+"\t\t\t\t\t&lt;div class=\"translator\"&gt;<br />\n"
+"\t\t\t\t\t&nbsp;&lt;a href=\"#\" class=\"translator-language-<b>es</b>\"&gt;"
+"<br />\n"
+"\t\t\t\t\t&nbsp;&nbsp;Spanish<br />\n"
+"\t\t\t\t\t&nbsp;&lt;/a&gt;<br />\n"
+"\n"
+"\t\t\t\t\t&nbsp;&lt;a href=\"#\" class=\"translator-language-<b>en</b>\"&gt;"
+"<br />\n"
+"\t\t\t\t\t&nbsp;&nbsp;English<br />\n"
+"\t\t\t\t\t&nbsp;&lt;/a&gt;<br />\n"
+"\n"
+"\t\t\t\t\t&nbsp;&lt;a href=\"#\" class=\"translator-language-<b>da</b>\"&gt;"
+"<br />\n"
+"\t\t\t\t\t&nbsp;&nbsp;Danish<br />\n"
+"\t\t\t\t\t&nbsp;&lt;/a&gt;<br />\n"
+"\n"
+"\t\t\t\t\t&nbsp;&lt;span class=\"translator-hidden translator-restore-"
+"container\"&gt;<br />\n"
+"\t\t\t\t\t&nbsp;&nbsp;&lt;a href=\"#\" class=\"restore\"&gt;<br />\n"
+"\t\t\t\t\t&nbsp;&nbsp;&nbsp;Restore<br />\n"
+"\t\t\t\t\t&nbsp;&nbsp;&lt;/a&gt;<br />\n"
+"\t\t\t\t\t&nbsp;&lt;/span&gt;<br />\n"
+"\t\t\t\t\t&lt;/div&gt;\n"
+"\t\t\t\t</code>\n"
+"\t\t\t</div>\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1403
+msgid "Translation service"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1404
+msgid "Sets the translation service to perform the translations."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1418
+msgid "Client Id"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1419
+msgid ""
+"Sets the <code>Client Id</code> for the <a href=\"https://datamarket.azure."
+"com/dataset/1899a118-d202-492c-aa16-ba21c33c06cb\" target=\"_blank"
+"\">Microsoft Translation Service</a>. After signing up for the service, "
+"register an <a href=\"https://datamarket.azure.com/developer/applications/\" "
+"target=\"_blank\">application</a> to generate both Client Id and Client "
+"Secret."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1429
+msgid "Client Secret"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1430
+msgid ""
+"Sets the <code>Client Secret</code> for the <a href=\"https://datamarket."
+"azure.com/dataset/1899a118-d202-492c-aa16-ba21c33c06cb\" target=\"_blank"
+"\">Microsoft Translation Service</a>. After signing up for the service, "
+"register an <a href=\"https://datamarket.azure.com/developer/applications/\" "
+"target=\"_blank\">application</a> to generate both Client Id and Client "
+"Secret."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1440
+msgid "Google API key"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1441
+msgid ""
+"Sets the <code>Google API key</code> for the <a href=\"https://code.google."
+"com/apis/console\" target=\"_blank\">Google Translation Service</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1451
+msgid "Override settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1452
+msgid "Defines a javascript object to override the current settings."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1463
+msgid "Custom languages names"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1464
+msgid ""
+"Defines a javascript object to override the current languages names. For "
+"instance:<br /><br /><code>{<br />&nbsp;&nbsp;&nbsp;&nbsp;\"pt\": "
+"\"PortuguÃªs\",<br />&nbsp;&nbsp;&nbsp;&nbsp;\"ja\": \"æ—¥æœ¬èªž\"<br />}</"
+"code>"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1475
+msgid "Import settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1476
+msgid ""
+"Imports previously exported settings. Paste the previously exported settings "
+"in the field. If the data's structure is correct, it will overwrite the "
+"current settings."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1484
+msgid "Export settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1485
+msgid ""
+"Exports the current settings to make a backup or to transfer the settings "
+"from the development server to the production server. Triple click on the "
+"field to select all the content."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1493
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1515
+msgid "Resource"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1494
+msgid ""
+"Modifies cached translations. \n"
+"\t\t\t<ol>\n"
+"\t\t\t\t<li>Select the <code>Resource</code> to modify (only cached "
+"<code>Resources</code> will be listed).</li>\n"
+"\t\t\t\t<li>Select an <code>Available language</code> (only cached "
+"<code>Languages</code> will be listed).</li>\n"
+"\t\t\t\t<li>Modify <code>Cached translations</code> at will. In order to "
+"delete an entry, remove the content for that particular entry.</li>\n"
+"\t\t\t</ol>"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1508
+msgid "Import translations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1509
+msgid ""
+"Import translations from a csv formatted file. The csv file must be UTF-8 "
+"encoded."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1510
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6975
+msgid "Import"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1511
+msgid "CSV file"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1512
+msgid "Select"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1513
+msgid "From"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1514
+msgid "To"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1516
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1521
+msgid ""
+"\n"
+"\t\t\tSelects what resources will be affected by the current import "
+"operation.<br /><br />\n"
+"\t\t\tThere are 2 levels of cached translations. The translator first checks "
+"for the resource specific cache file, if the file exists, then it'll check "
+"if the requested translation has been made. If not, it'll check the Upcoming "
+"translations file. If the translation isn't there, then it'll contact the "
+"translation server.<br /><br />\n"
+"\t\t\tThe Upcoming translation files contains all the translations for all "
+"the pages for a specific pair of source and destination languages.\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1526
+msgid "All"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1527
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1564
+msgid "Upcoming"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1528
+msgid "Action"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1529
+msgid ""
+"Sets what kind of operation will be performed during the import process."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1530
+msgid "Add and replace"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1531
+msgid "Add only"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1532
+msgid "Replace only"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1533
+msgid "Simulate"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1534
+msgid "Sets whether a simulation will be performed, or not."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1535
+msgid "Yes, perform a simulation, don't import anything"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1536
+msgid "No, don't perform a simulation, import everything"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1537
+msgid "Imported translations log"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1538
+msgid "Empty file"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1539
+msgid "The file is not a valid comma-separated values (csv) file"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1540
+msgid "Empty language"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1541
+msgid "Invalid resource"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1542
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1543
+msgid "Invalid value"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1544
+msgid "Added"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1545
+msgid "Replaced"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1546
+msgid "Removed"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1547
+msgid "Omitted"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1548
+msgid "File created"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1549
+msgid "Yes"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1550
+msgid "No"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1551
+msgid "This is a simulation, no changes have been made"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1552
+msgid "No translations have been imported"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1561
+msgid "Export translations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1562
+msgid ""
+"Selects what resources, and their languages, to export. All the selected "
+"translations will be exported into one single csv file."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1563
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6976
+msgid "Export"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1565
+msgid ""
+"There are no cache files yet. Cached files will appear here either after "
+"translations are either made or imported."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1574
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1579
+msgid "Backup"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1575
+msgid ""
+"Backups and restores the current settings and/or the cached translations on "
+"SurStudio's servers. A maximum of 5 backups will be stored online, "
+"additional backups will automatically remove previous backups, oldest first."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1576
+#, php-format
+msgid ""
+"In order to use %s, you should first enable the extended features in the <a "
+"href=\"%s\">Dashboard</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1577
+msgid "Online backups"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1578
+msgid "List stored backups"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1580
+msgid "Restore backup"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1581
+#, php-format
+msgid ""
+"You're about to restore the %s from the backup, the current %s will be "
+"overwritten. Do you want to continue?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1582
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5871
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5947
+msgid "Settings &amp; Translations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1583
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5872
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5948
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6842
+msgid "Settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1584
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5873
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5949
+msgid "Translations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1592
+msgid "Frequently asked questions"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1593
+msgid ""
+"When I try to make a translation, it loads but then returns to the original "
+"language.<br />What's going on? How can it be fixed?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1594
+msgid ""
+"\n"
+"\t\t\tIt means the translation cannot take place. Double check the following "
+"list:\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Make sure the <b>Item Purchase Code</b> you're using is the "
+"one that corresponds to the <b>Ajax Translator Revolution WordPress Plugin</"
+"b> item.</li>\n"
+"\t\t\t\t<li>- Make sure the <b>Item Purchase Code</b> hasn't been used on "
+"another website before. As stated in the <a href=\"http://codecanyon.net/"
+"licenses/terms/regular\" target=\"_blank\">License terms</a>, <b>one license "
+"can be used in only one website</b>. If you have installed the plugin in a "
+"development environment, then contact support (see below) to get the code "
+"reseted.</li>\n"
+"\t\t\t\t<li>- If you still have issues, please contact support (see below).</"
+"li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1602
+msgid ""
+"The translations are so wrong, they don't make any sense! What's going on? "
+"How can it be fixed?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1603
+msgid ""
+"Most likely the website's source language is not correctly specified.<br /"
+">Go to: <b>General &gt; Website's language</b><br />Make sure you're setting "
+"the correct website's language.<br />If you still have issues, please "
+"contact support (see below)."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1604
+msgid ""
+"The translation bar isn't placed at the very top, there's like a gap between "
+"the bar and the top of the page.<br />What's going on? How can it be fixed?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1605
+msgid ""
+"\n"
+"\t\t\tSome themes and plugin's change a main style attribute, so it affects "
+"the positioning of the translation bar.\n"
+"\t\t\t<br />Go to: <b>Advanced &gt; General &gt; Style classes &gt; "
+"Container class (is the first one)</b>\n"
+"\t\t\t<br />Instead of <b>translator-container</b> use <b>translator-"
+"container-20</b>\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1610
+msgid ""
+"I'd like to place the translation bar not at the very top but on another "
+"place, not a widget area, can you please help me?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1611
+msgid ""
+"\n"
+"\t\t\tOf course. If you don't know how to use the advanced position options "
+"<b>Advanced &gt; Location &gt; Custom</b> we can help you out.\n"
+"\t\t\t<br />We'll need you to take a screenshot and visually explain where "
+"would you like to place the translator. We ask you to do this because some "
+"times is not too easy to come up with the procedure, and then it turns out "
+"that the solution isn't exactly what the client wanted. \n"
+"\t\t\t<br />Your operating system should have some simple graphic editing "
+"tool, so basically, you should:\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Take a screenshot of the current website (without the "
+"translator).</li>\n"
+"\t\t\t\t<li>- Enable the translator with the desired flags/languages, take "
+"another temp screenshot.</li>\n"
+"\t\t\t\t<li>- Select/copy/paste the translator area and place it in the "
+"desired location in the first screenshot.</li>\n"
+"\t\t\t\t<li>- Contact support and send only the first modified screenshot, "
+"along with a temporary WP admin access.</li>\n"
+"\t\t\t\t<li>- If you have any cache plugin/mechanism, disable it until we're "
+"done.</li>\n"
+"\t\t\t\t<li>- Make sure to resize your browser and check if the desired "
+"location is still available (some themes change their layout for mobile "
+"devices).</li>\n"
+"\t\t\t\t<li>* Envato contact form doesn't allow attachments, so you can "
+"upload the screenshot to <a href=\"http://postimage.org/\" target=\"_blank"
+"\">http://postimage.org/</a>, <a href=\"http://uploads.im/\" target=\"_blank"
+"\">http://uploads.im/</a> or any other online image hosting service.</li>\n"
+"\t\t\t\t<li>** Or you can contact support, get the response email and attach "
+"the screenshot directly.</li>\n"
+"\t\t\t</ul>\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1626
+msgid ""
+"Thanks, but I'd like to remove this FAQ &amp; Support tab, how can I do it?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1627
+msgid ""
+"\n"
+"\t\t\tYou should make a simple modification to a PHP file:\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Using your favorite FTP client software, open a connection to "
+"this server.</li>\n"
+"\t\t\t\t<li>- Browse to <b>/wp-content/plugins/wp-translator-revolution/"
+"classes/</b>.</li>\n"
+"\t\t\t\t<li>- Edit the <b>config.class.php</b> file.</li>\n"
+"\t\t\t\t<li>- Edit line 30:<br />&nbsp;&nbsp;<b>const ENABLE_SUPPORT_TAB = "
+"true;</b></li>\n"
+"\t\t\t\t<li>- Set it to:<br />&nbsp;&nbsp;<b>const ENABLE_SUPPORT_TAB = "
+"false;</b></li>\n"
+"\t\t\t</ul>\n"
+"\t\t"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1644
+msgid "Get instant support"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1645
+msgid ""
+"Go to <a href=\"http://codecanyon.net/user/SurStudio#contact\" target="
+"\"_blank\">http://codecanyon.net/user/SurStudio</a>"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1646
+msgid "Scroll down the page and find the contact form"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1647
+#, php-format
+msgid ""
+"<a href=\"http://codecanyon.net/user/SurStudio#contact\" target=\"_blank"
+"\"><img src=\"%s/admin/contact_form.png\" alt=\"Contact form\" /></a>"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:1648
+msgid ""
+"Describe what's happening, and what you expect to happen.<br />Include a "
+"<strong>link/URL</strong> where the problem can be seen.<br />Include the "
+"Item Purchase Code.<br />Note that we only provide support in English."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4554
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4555
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4556
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4557
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4570
+msgid "No file was uploaded"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4558
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4559
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4560
+msgid "A PHP extension stopped the file upload"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:4561
+msgid "An unknown error occurred during the file upload"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5223
+msgid "Translator Revolution"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5241
+#, php-format
+msgid "Ajust settings <a href=\"%s\">here</a>"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5622
+msgid "The extended features aren't enabled on this server."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5882
+#, php-format
+msgid "about %s %s ago"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:5887
+#, php-format
+msgid "There are no stored backups associated with the %s license."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6264
+msgid "You do not have sufficient permissions to update plugins for this site."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6307
+msgid "Incompatible zip file. Please contact support."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6328
+msgid "Error copying files. Please contact support."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6402
+msgid ""
+"Unsual server error. No plugin data found. Please try again in 5 minutes."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6414
+msgid "Unsual server error. CRC doesn't match. Please try again in 5 minutes."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6427
+#, php-format
+msgid ""
+"There's at least one %s that isn't writable:<br />%s<br />Update cannot "
+"continue. Set the appropriate permissions and try again."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6427
+msgid "file"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6427
+msgid "folder"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6454
+msgid "Unsual server error. Please try again in 5 minutes."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6500
+msgid "There's no need to update."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6791
+msgid "Translator Revolution Settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6793
+msgid "Settings saved."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6794
+msgid "Settings reseted."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6795
+msgid ""
+"All the settings will be reseted and restored to their default values. Do "
+"you want to continue?"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6796
+msgid "Save changes"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6797
+msgid "Reset settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6799
+msgid "Translations saved."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6954
+msgid "Dashboard"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6955
+msgid "General Settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6956
+msgid ""
+"The entered Item Purchase Code appears to be invalid. Make sure to read and "
+"follow all the steps listed on the <a href=\"http://www.surstudio.net/"
+"translator-revolution-wordpress-plugin/installation/\" target=\"_blank"
+"\">Installation Guide</a>. Or <a href=\"http://codecanyon.net/user/"
+"SurStudio#contact\" target=\"_blank\">ask for support</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6957
+#, php-format
+msgid "The folder %s isn't writable."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6958
+msgid ""
+"The OpenSSL module isn't installed on this server, which is required by the "
+"Google Translate API."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6959
+msgid "The fsockopen function isn't enabled on this server."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6960
+msgid "The Mcrypt module isn't enabled on this server."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6962
+msgid ""
+"Please provide an <b>Item Purchase Code</b>. Make sure to read and follow "
+"all the steps listed on the <a href=\"http://www.surstudio.net/translator-"
+"revolution-wordpress-plugin/installation/\" target=\"_blank\">Installation "
+"Guide</a>. Or <a href=\"http://codecanyon.net/user/SurStudio#contact\" "
+"target=\"_blank\">ask for support</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6963
+msgid ""
+"Please provide an <b>API key</b> for the <a href=\"https://code.google.com/"
+"apis/console\">Google Translation Service</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6964
+msgid ""
+"Please provide the <b>Client Id</b> for the <a href=\"https://datamarket."
+"azure.com/dataset/1899a118-d202-492c-aa16-ba21c33c06cb\" target=\"_blank"
+"\">Microsoft Translation Service</a>. Register an <a href=\"https://"
+"datamarket.azure.com/developer/applications/\" target=\"_blank"
+"\">application</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6965
+msgid ""
+"Please provide the <b>Client Secret</b> for the <a href=\"https://datamarket."
+"azure.com/dataset/1899a118-d202-492c-aa16-ba21c33c06cb\" target=\"_blank"
+"\">Microsoft Translation Service</a>. Register an <a href=\"https://"
+"datamarket.azure.com/developer/applications/\" target=\"_blank"
+"\">application</a>."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6967
+msgid "Advanced Settings"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6968
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6974
+msgid "General"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6969
+msgid "Import / Export"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6970
+msgid "Settings succesfully imported."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6971
+msgid ""
+"There was a problem while importing the settings. Please make sure the "
+"exported string is complete. Changes weren't saved."
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6973
+msgid "Cached Translations"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:6979
+msgid "FAQ &amp; Support"
+msgstr ""
+
+#: /home/dev/site/wp-content/plugins/wp-translator-revolution/classes/main.class.php:7174
+#, php-format
+msgid "There's at least one cache file that isn't writable, ie: <b>%s</b>"
+msgstr ""

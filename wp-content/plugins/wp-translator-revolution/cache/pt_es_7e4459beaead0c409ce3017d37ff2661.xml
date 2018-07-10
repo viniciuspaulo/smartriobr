@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="pt" to="es" domain="7e4459beaead0c409ce3017d37ff2661" scope="/?gclid=CjwKCAjw3cPYBRB7EiwAsrc-uZR0iOstbEot7oSLI2TSL7jygrC9oWUBe6XazVkmD8sLNB-Caup00xoC-c0QAvD_BwE">
+  <word hash="10517b1d0a6ff3c26aeaec25ffc03996ad42c921e30bad219787cafbbc5fc38e" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Whatsapp! +55 (21) 9 6501 6101]]></source>
+    <translation><![CDATA[Whatsapp! 55 (21) 9 6501 6101]]></translation>
+  </word>
+  <word hash="5b31d7b144bcc13996d55029904eba660c0c41d3e35acf2b9d3190e279c0dbb7" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[contato@smartriotour.com.br]]></source>
+    <translation><![CDATA[contato@smartriotour.com.br]]></translation>
+  </word>
+  <word hash="d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Facebook]]></source>
+    <translation><![CDATA[Facebook]]></translation>
+  </word>
+  <word hash="bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Instagram]]></source>
+    <translation><![CDATA[Instagram]]></translation>
+  </word>
+  <word hash="8fa3899e9b32ade1ec2b880c24414579da3ec8a13b9b469b29c31be378aa5b07" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Linkedin]]></source>
+    <translation><![CDATA[Linkedin]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="0f3d9441cee3586bf1201b32eed81f2857bb69d137a7e7f9c2c872788a1d9008" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[A Smart Rio]]></source>
+    <translation><![CDATA[Río inteligentes]]></translation>
+  </word>
+  <word hash="c9431ebdbd660ab5096999759015a1f610b5851e8913393531d3514624d3a07e" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Nossos Passeios]]></source>
+    <translation><![CDATA[nuestros Tours]]></translation>
+  </word>
+  <word hash="c38f5b1fbdda2d4d27b6d8c7049dd132810d5e649d6abda5c50e5b8eb2783872" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Aluguel de Veículos]]></source>
+    <translation><![CDATA[alquiler de coches]]></translation>
+  </word>
+  <word hash="8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="f868b96162a100308cfa363cc3eacce785d7f3ba75f06c847f0d4b1df3ed6891" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Fale Conosco]]></source>
+    <translation><![CDATA[Contáctenos]]></translation>
+  </word>
+  <word hash="f1445c5e1469a87284a5f3092cb17ec35ddc83a914e9aeb110bda8f5388c1edd" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reservar]]></source>
+    <translation><![CDATA[Libro]]></translation>
+  </word>
+  <word hash="972ca4446b1ae859f77baaf9961fd203ae2a1ae5652ee57ead7f13015085b3fa" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reserva via Whatsapp]]></source>
+    <translation><![CDATA[Reserva a través de WhatsApp]]></translation>
+  </word>
+  <word hash="dcf678f6c24684a8fe56207d6cc0aad88c7da9bbc915a03437b56611949daed6" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reserva via E-mail]]></source>
+    <translation><![CDATA[Reserva a través de correo electrónico]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="0f3d9441cee3586bf1201b32eed81f2857bb69d137a7e7f9c2c872788a1d9008" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[A Smart Rio]]></source>
+    <translation><![CDATA[Río inteligentes]]></translation>
+  </word>
+  <word hash="c9431ebdbd660ab5096999759015a1f610b5851e8913393531d3514624d3a07e" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Nossos Passeios]]></source>
+    <translation><![CDATA[nuestros Tours]]></translation>
+  </word>
+  <word hash="c38f5b1fbdda2d4d27b6d8c7049dd132810d5e649d6abda5c50e5b8eb2783872" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Aluguel de Veículos]]></source>
+    <translation><![CDATA[alquiler de coches]]></translation>
+  </word>
+  <word hash="8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="f868b96162a100308cfa363cc3eacce785d7f3ba75f06c847f0d4b1df3ed6891" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Fale Conosco]]></source>
+    <translation><![CDATA[Contáctenos]]></translation>
+  </word>
+  <word hash="f1445c5e1469a87284a5f3092cb17ec35ddc83a914e9aeb110bda8f5388c1edd" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reservar]]></source>
+    <translation><![CDATA[Libro]]></translation>
+  </word>
+  <word hash="972ca4446b1ae859f77baaf9961fd203ae2a1ae5652ee57ead7f13015085b3fa" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reserva via Whatsapp]]></source>
+    <translation><![CDATA[Reserva a través de WhatsApp]]></translation>
+  </word>
+  <word hash="dcf678f6c24684a8fe56207d6cc0aad88c7da9bbc915a03437b56611949daed6" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reserva via E-mail]]></source>
+    <translation><![CDATA[Reserva a través de correo electrónico]]></translation>
+  </word>
+  <word hash="62381038587bc664547b22f8de3a5f075aa545537e80ce9f13f72006d9409134" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Os melhores passeios no Rio de Janeiro]]></source>
+    <translation><![CDATA[Las mejores excursiones en Río de Janeiro]]></translation>
+  </word>
+  <word hash="0157e0c3f88b74955df8c2a46e27d3c9c2b7f5bf5a0321ae48d4e1b396397564" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Ir para Passeios]]></source>
+    <translation><![CDATA[Ir a Tours]]></translation>
+  </word>
+  <word hash="8c28c0e90ce68df2720fa615aa615d4af48a55ad7c043ba405b26e54f781d713" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[
+			Home		]]></source>
+    <translation><![CDATA[casa]]></translation>
+  </word>
+  <word hash="8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[admin]]></source>
+    <translation><![CDATA[administración]]></translation>
+  </word>
+  <word hash="ab1c1c775bfe81de586dd4e011fe2ee3b3169f82aa268c3174891ec1ae76cf9e" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[
+			2018-05-24T20:17:31+00:00		]]></source>
+    <translation><![CDATA[2018-05-24T20: 17: 31 + 00: 00]]></translation>
+  </word>
+  <word hash="6c57a0501a434ed72f1a6f612543c1c0ef58f23b64303528b0303fabb395e8ec" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Quer Fazer os Melhores Passeios no Rio de Janeiro?]]></source>
+    <translation><![CDATA[¿Quieres hacer el Top Tours en Río de Janeiro?]]></translation>
+  </word>
+  <word hash="485832d59d393f22f9167d28a552194df157f5eb608979f910e7ffc28b5aec85" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Confira abaixo uma seleção dos passeios no Rio de Janeiro mais pedidos]]></source>
+    <translation><![CDATA[Echa un vistazo a una selección de tours en Río de Janeiro más solicitudes]]></translation>
+  </word>
+  <word hash="90b70cd28591d5207a8146da19aa0af3a9d3c0ca169c7bad689ea2f5211af124" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio City Tour Completo]]></source>
+    <translation><![CDATA[Excursión de todo el City Tour]]></translation>
+  </word>
+  <word hash="b05928ebf244034732f27881f6cc3c73b78a75cb8ce23c146363d6a66442180c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Diariamente]]></source>
+    <translation><![CDATA[diario]]></translation>
+  </word>
+  <word hash="d7e91fe1968cdf873c3571bfaf0d4d710b8f731af3c7a6102a95fb3f360733e2" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Tour Cristo Redentor • Pão de Açúcar • Maracanã…]]></source>
+    <translation><![CDATA[• Información • Cristo Redentor pan de azúcar • Maracaná ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="5808248167c7f7e8ed511f126f18ad226c8e496a185dc2d552cdafef6f27eb1e" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio Petrópolis]]></source>
+    <translation><![CDATA[tour de Petrópolis]]></translation>
+  </word>
+  <word hash="b4885ad847fce52decbd6e49753d5318cab5b7b29e856907c3d58972b1abb154" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Terça, Quinta e Sábado]]></source>
+    <translation><![CDATA[Martes, jueves y sábado]]></translation>
+  </word>
+  <word hash="dfacb2c6b9815c0a9bdcff2264afb243d0a0ab78900780fdd4b1edf291f6e43b" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Tour Palácio Quitandinha • Museu Imperial…]]></source>
+    <translation><![CDATA[• Información Quitandinha Palace • Museo Imperial ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="b8539ad14cf255d2deafa5bdcd6d5bf19ec9e814f8a61fb6e78447aff3eee15e" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio Angra dos Reis]]></source>
+    <translation><![CDATA[Paseo en Angra dos Reis]]></translation>
+  </word>
+  <word hash="b05928ebf244034732f27881f6cc3c73b78a75cb8ce23c146363d6a66442180c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Diariamente]]></source>
+    <translation><![CDATA[diario]]></translation>
+  </word>
+  <word hash="0abe1eb1bc8dc4cb112e826c736679f2241aede0986d083f487dc00b0fd5fbb2" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Passeio de Barco • Ilha Grande • Lagoa Azul…]]></source>
+    <translation><![CDATA[• Navegación • • Big Island Blue Lagoon ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="221faf110ed52e05dcd1b7b1110a9006da1849778276b7f6c252d48c7dd47bb1" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio Arraial do Cabo]]></source>
+    <translation><![CDATA[Tour de Arraial do Cabo]]></translation>
+  </word>
+  <word hash="b05928ebf244034732f27881f6cc3c73b78a75cb8ce23c146363d6a66442180c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Diariamente]]></source>
+    <translation><![CDATA[diario]]></translation>
+  </word>
+  <word hash="19957827f9218cdf433a899ff8df18d6462bc2e8cf9bc08e4996597c12c92c38" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Passeio de Barco • Praia dos Anjos • Ilha do Farol…]]></source>
+    <translation><![CDATA[• Navegación • Praia dos Anjos • Faro de la isla de ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="312eb04cb6121f1acb7e5858c8dedcb3021f62a5f0fdb77826468c56a952375c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio Búzios]]></source>
+    <translation><![CDATA[caminar Buzios]]></translation>
+  </word>
+  <word hash="b4885ad847fce52decbd6e49753d5318cab5b7b29e856907c3d58972b1abb154" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Terça, Quinta e Sábado]]></source>
+    <translation><![CDATA[Martes, jueves y sábado]]></translation>
+  </word>
+  <word hash="683782dfeaac33e658fcb0148c3a0dca28b3b1ae8a501232c44e6dd4d2e26af2" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Passeio de Barco • Rua das Pedras • João Fernandes…]]></source>
+    <translation><![CDATA[• Navegación • Rua das Pedras • João Fernandes ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="6e38995aeaf8a48ac5ed706a534fdb57455e8df4c27975eb639ebcc157041f86" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio Rio Express]]></source>
+    <translation><![CDATA[gira River Express]]></translation>
+  </word>
+  <word hash="b05928ebf244034732f27881f6cc3c73b78a75cb8ce23c146363d6a66442180c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Diariamente]]></source>
+    <translation><![CDATA[diario]]></translation>
+  </word>
+  <word hash="6db2e100b4581086eef8dd32a657d6fc53ff3a99c21347db79042a762409be29" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Tour Cristo Redentor • Pão de Açúcar • Bondinho…]]></source>
+    <translation><![CDATA[• Tour de Cristo Redentor del teleférico • • Pan de Azúcar ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="9339a736bc7207c4702b28b17f74dd7117749de5d6c1809b9a5962eef6bbf271" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio Corcovado]]></source>
+    <translation><![CDATA[gira Corcovado]]></translation>
+  </word>
+  <word hash="b05928ebf244034732f27881f6cc3c73b78a75cb8ce23c146363d6a66442180c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Diariamente]]></source>
+    <translation><![CDATA[diario]]></translation>
+  </word>
+  <word hash="45a9fc87262ae5fdfcb7ec1c4ebc0b5e0e0c47ea39295d0f1400da2034793e80" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Tour Cristo Redentor • Sambódromo • Maracanã…]]></source>
+    <translation><![CDATA[• Información Cristo Redentor • • Sambódromo Maracaná ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="f36ca078f2e93f89fa2dce0dd839d66e925d92cfedf71c2bc1fd3212abc98163" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Passeio Pão de Açúcar]]></source>
+    <translation><![CDATA[Pan de azúcar]]></translation>
+  </word>
+  <word hash="b05928ebf244034732f27881f6cc3c73b78a75cb8ce23c146363d6a66442180c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Diariamente]]></source>
+    <translation><![CDATA[diario]]></translation>
+  </word>
+  <word hash="bb32244a2085d05c3106daef3a3973544883b4a8475b55ecb8ef47c70f9b17c6" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[• Tour Pão de Açúcar • Panorâmico Praias…]]></source>
+    <translation><![CDATA[• Información • Pan de azúcar playas panorámicas ...]]></translation>
+  </word>
+  <word hash="19f94836076aaa383d1fb2c070a597b3550050485cdd28df951743dafdf21fe3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[IR PARA PASSEIO]]></source>
+    <translation><![CDATA[IR PARA CAMINAR]]></translation>
+  </word>
+  <word hash="acee2c513ed2b0691f36b91c4454614c116bfa85b18390e193f4c87295d71391" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reserve Agora o seu passeio no Rio de Janeiro]]></source>
+    <translation><![CDATA[Reserve ahora su recorrido en Río de Janeiro]]></translation>
+  </word>
+  <word hash="d0b9d3df02d6c614541996a8549545678b13ea931066fc3777987024e992d715" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Faça já sua reserva Por telefone, online ou via whatsapp]]></source>
+    <translation><![CDATA[ya hacer su reserva por teléfono, por Internet o por medio de WhatsApp]]></translation>
+  </word>
+  <word hash="acee2c513ed2b0691f36b91c4454614c116bfa85b18390e193f4c87295d71391" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Reserve Agora o seu passeio no Rio de Janeiro]]></source>
+    <translation><![CDATA[Reserve ahora su recorrido en Río de Janeiro]]></translation>
+  </word>
+  <word hash="d0b9d3df02d6c614541996a8549545678b13ea931066fc3777987024e992d715" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Faça já sua reserva Por telefone, online ou via whatsapp]]></source>
+    <translation><![CDATA[ya hacer su reserva por teléfono, por Internet o por medio de WhatsApp]]></translation>
+  </word>
+  <word hash="7118f3b7df939c08ee68e7fbbd4b021aeaaf631d94c768c56a9ff2f81e84bfe4" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[
+                        Additional RAM
+                        ]]></source>
+    <translation><![CDATA[                        RAM adicional                        ]]></translation>
+  </word>
+  <word hash="ed3db343286a40295d94e145a5fd252b8a673ec0cb10a18052e926f611f5d5af" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[2GB for $15/month]]></source>
+    <translation><![CDATA[2 GB por $ 15 / mes]]></translation>
+  </word>
+  <word hash="e30b9a56c866a00c006aecb0f5224bb8454e65e9e294615736aed91504c65a21" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[4GB for $25/month]]></source>
+    <translation><![CDATA[4 GB por $ 25 / mes]]></translation>
+  </word>
+  <word hash="b42644520fa7efe73240d8ce75730a363c727b4dcb996d5339e85b114d85614c" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[8GB for $35/month]]></source>
+    <translation><![CDATA[8 GB por $ 35 / mes]]></translation>
+  </word>
+  <word hash="5522054ae632d70838d12f0acb61163fc9661e6d9fc7a1df0bc04be265170720" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[12GB for $45/month]]></source>
+    <translation><![CDATA[12 GB por $ 45 / mes]]></translation>
+  </word>
+  <word hash="1bb9dbe1a1f8c010c71c5af1e96331c5881265e56a92a3b989d60201bfa01f62" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[30GB for $75/month]]></source>
+    <translation><![CDATA[30 GB por $ 75 / mes]]></translation>
+  </word>
+  <word hash="c8d17a5db4502386d820174936b3b32e3a13551f48dda0dfcba60914c34894df" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[
+                        Monthly Visitors
+                        ]]></source>
+    <translation><![CDATA[                        Los visitantes mensuales                        ]]></translation>
+  </word>
+  <word hash="bc8596a47d728a5321dc34b3a01656f9554f186cfe51e7225b8d5ab4b4f1bfee" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[50K]]></source>
+    <translation><![CDATA[50K]]></translation>
+  </word>
+  <word hash="02632190f562d26c72a5b5ace8526faf8bae1574c1fd9fa6ca158026f4468b8d" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[100K]]></source>
+    <translation><![CDATA[100K]]></translation>
+  </word>
+  <word hash="67f4158e638a0da09c3fcc8e63266b64e93ad6fd941b4d0756f4dcbaf1ed0abd" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[250K]]></source>
+    <translation><![CDATA[250K]]></translation>
+  </word>
+  <word hash="46743c403622bba71b1284df4904de6fdfa763a56394160ff1e5685df4e7f18a" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[500K]]></source>
+    <translation><![CDATA[500K]]></translation>
+  </word>
+  <word hash="1357436dbab40b379db82da0db6a78f60e02d02196f5fe9f65dcc10c6146af2a" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[1 Million+]]></source>
+    <translation><![CDATA[1 millón +]]></translation>
+  </word>
+  <word hash="a3f4206fc20974106fb7a9f0a3e1564f0da5fd0c2f745ad5657fde37d2c129e4" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Your Message ]]></source>
+    <translation><![CDATA[su mensaje ]]></translation>
+  </word>
+  <word hash="2314a94eb6f5952e45ab640df567f4955288c3f93596ad780a7fa5f08c30a9cd" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Institucional]]></source>
+    <translation><![CDATA[Institucional]]></translation>
+  </word>
+  <word hash="85be53f3b1956a7fa3ebe0571a4c1825b96bdaa08d19ca5c13db48ba3c6841dc" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  A Smart Rio]]></source>
+    <translation><![CDATA[Río inteligentes]]></translation>
+  </word>
+  <word hash="1cc091647536466c34178408296c69978c1fcdfd26f339dbbdb6449971855912" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  Nossos Passeios]]></source>
+    <translation><![CDATA[nuestros Tours]]></translation>
+  </word>
+  <word hash="5426ffff8df9590ad4c40e35a9e1fc0fbc25ad91f78c51b203f083b598a1a276" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  Aluguel de Veículos]]></source>
+    <translation><![CDATA[alquiler de coches]]></translation>
+  </word>
+  <word hash="55f55984b3c5aa6383da5412b53c2539f479271b6920fb8abc3dec80bd90bb56" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="891cc35812fe8b530d4d70ed953dbc71c1fac3e3cd48ab2833d2926790fe62ce" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  Fale Conosco]]></source>
+    <translation><![CDATA[Hable con nosotros]]></translation>
+  </word>
+  <word hash="c21cc8254b0f63428c352fd39c01c2fea4683fdc2504fdf10d5be97d224b7081" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Contato & Mídias]]></source>
+    <translation><![CDATA[Contacto y Medios]]></translation>
+  </word>
+  <word hash="87b6edd37d845d7b59063bbe1090c844a8098ca3ff430fd2fa8ff8a90a3a8596" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  /smartriotour]]></source>
+    <translation><![CDATA[/ smartriotour]]></translation>
+  </word>
+  <word hash="3b6a7b3bab9bedba5120c8a15916d5a90a63b8718d6321970e3d364d13a2f64b" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  @smartriotour]]></source>
+    <translation><![CDATA[@smartriotour]]></translation>
+  </word>
+  <word hash="c06e48e42e64b226abb51e14d317839912471b28b1ffdbec8a75b16498f5c9d0" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  +55 21 96501•6101]]></source>
+    <translation><![CDATA[+55 21 96501 • 6101]]></translation>
+  </word>
+  <word hash="e92f147c40699b74682aced04d33132411d01a38ffd357412a2d298ec8b9e9b3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  +55 21 4107•9636]]></source>
+    <translation><![CDATA[+55 21 4107 9636 •]]></translation>
+  </word>
+  <word hash="ac94a638ac38b228e66c0cc772045edeccb4f6849a93bff33a35abbf68d0ea9b" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  +55 21 3738•7793]]></source>
+    <translation><![CDATA[+55 21 3738 7793 •]]></translation>
+  </word>
+  <word hash="ce96d8c97cb2ac52b4b1031b720b8d8243cdd7669209f9c7b7d0007f2ad84df3" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Turismo Legal]]></source>
+    <translation><![CDATA[Información fresca]]></translation>
+  </word>
+  <word hash="d0dc8c213bcc9e28e98b6a7e703cd19a57da53a9930c3976920817dc8e1f8d73" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Formas de Pagamento]]></source>
+    <translation><![CDATA[Formas de pago]]></translation>
+  </word>
+  <word hash="e36b74c46cc7c05375b6ceb120ebdd34ba2562f7f6c0b913a91416dcffda8ce0" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  Crédito]]></source>
+    <translation><![CDATA[crédito]]></translation>
+  </word>
+  <word hash="0c4bcc2acf75d183f29cb679da2c50b1f33c7ec1ec20891c16fd231ce5d5c8c5" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[  Débito]]></source>
+    <translation><![CDATA[débito]]></translation>
+  </word>
+  <word hash="c1031fd8adf19e9d1a57a4f61eeb8e00c550788a978a592896e7ec1967aeca4d" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[
+		© 2018 Passeio RJ, Passeio de Barco, Pontos turísticos RJ, Tour | Smart Rio Tour.	]]></source>
+    <translation><![CDATA[© 2018 RJ Walk, viaje en barco, lugares turísticos RJ, Información | River Tour inteligente.]]></translation>
+  </word>
+  <word hash="2d25badd29356dccfe4b8a650568ed589cc87e24e29046122435874d7eba3467" date="2018-06-01T16:20:27+00:00">
+    <source><![CDATA[Go to Top]]></source>
+    <translation><![CDATA[Ir al Inicio]]></translation>
+  </word>
+  <word hash="1a11ff0749ccfa932a3195d22c00178014026af1d99e0843b3a3d211351acf2f" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Segurança & Conforto]]></source>
+    <translation><![CDATA[De seguridad y ergonomía]]></translation>
+  </word>
+  <word hash="02a8739c049229375f158ec231a664beb740dabf60ba5051b5b6ff24a86d0559" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[• Oferecemos um serviço seguro e de alta qualidade. • Veículos novos e confortáveis. • Motoristas treinados e capacitados]]></source>
+    <translation><![CDATA[• Ofrecemos un servicio seguro y de alta calidad. • vehículos nuevos y confortables. • Los conductores capacitados y calificados]]></translation>
+  </word>
+  <word hash="0bb4d01821a235649513e5c350f454ba4b592441101d4c671e714faf5c8fd84e" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[FAÇA UM ORÇAMENTO]]></source>
+    <translation><![CDATA[Hacer un presupuesto]]></translation>
+  </word>
+  <word hash="d6cd38fc3661caab9117f99421930cf0e8ccc5b290edbd73fa4eed1089d5294b" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Aluguel de Van]]></source>
+    <translation><![CDATA[alquiler de furgonetas]]></translation>
+  </word>
+  <word hash="d4448656e90fdb69d9e1229f6c0b174f37339c73b28480c5d01aff90145126d0" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[com motorista*]]></source>
+    <translation><![CDATA[conductor con *]]></translation>
+  </word>
+  <word hash="b26e1a9145e2d5fc23406a9fbdafed03e2f092d97047a2588acf819a3a564a91" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Van executiva 15 Lugares.]]></source>
+    <translation><![CDATA[Van ejecutivo de 15 plazas.]]></translation>
+  </word>
+  <word hash="37d920bb1bd99925acdfa19660b4e10815a2b31ce520a56305df402b39e3f535" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[
+Conforto e segurança]]></source>
+    <translation><![CDATA[\nConfort y seguridad]]></translation>
+  </word>
+  <word hash="02b3bd05dad3074db5b060dae39d8214e71257679be79b889e3313ec694007cc" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[
+Tour • Passeios • Eventos]]></source>
+    <translation><![CDATA[\nRecorrido • Tours • Eventos]]></translation>
+  </word>
+  <word hash="05ccab94fad9290ae52a59aede6086dde9aaa82b3d73248f415d304f973d5e78" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[veículos novos e climatizados*]]></source>
+    <translation><![CDATA[vehículos nuevos, con aire acondicionado *]]></translation>
+  </word>
+  <word hash="2e33794b31bc33321cca7bd2887bab2f8118664614a6dd290d6acf8cbe6299ce" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Aluguel de Doblò]]></source>
+    <translation><![CDATA[Alquiler Doblò]]></translation>
+  </word>
+  <word hash="d4448656e90fdb69d9e1229f6c0b174f37339c73b28480c5d01aff90145126d0" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[com motorista*]]></source>
+    <translation><![CDATA[conductor con *]]></translation>
+  </word>
+  <word hash="e848f70a87e3429a2cc86e5ccd84df2617aa3d76dcfe43ad31197aab556bc14b" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Veículo para até 6 passageiros.]]></source>
+    <translation><![CDATA[Vehículo para hasta 6 pasajeros.]]></translation>
+  </word>
+  <word hash="37d920bb1bd99925acdfa19660b4e10815a2b31ce520a56305df402b39e3f535" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[
+Conforto e segurança]]></source>
+    <translation><![CDATA[\nConfort y seguridad]]></translation>
+  </word>
+  <word hash="02b3bd05dad3074db5b060dae39d8214e71257679be79b889e3313ec694007cc" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[
+Tour • Passeios • Eventos]]></source>
+    <translation><![CDATA[\nRecorrido • Tours • Eventos]]></translation>
+  </word>
+  <word hash="05ccab94fad9290ae52a59aede6086dde9aaa82b3d73248f415d304f973d5e78" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[veículos novos e climatizados*]]></source>
+    <translation><![CDATA[vehículos nuevos, con aire acondicionado *]]></translation>
+  </word>
+  <word hash="8123d9e6d57dc5861c397e5335e4ea67a0af58e4cc26ccbad95b59a1777827d9" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Tripadvisor:]]></source>
+    <translation><![CDATA[Tripadvisor:]]></translation>
+  </word>
+  <word hash="ab7a5b12952a0e4044ae909282809a171b33ecaabee8341b6537b41509d58c6c" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Conheça mais. Reserve melhor. Boa viagem!]]></source>
+    <translation><![CDATA[Más información. Libro mejor. ¡Buen viaje!]]></translation>
+  </word>
+  <word hash="ca02aaa26b02d7d56e997eae17623423193c028518f31611177493bb405df0bc" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Smart Rio Tour]]></source>
+    <translation><![CDATA[River Tour inteligentes]]></translation>
+  </word>
+  <word hash="519d93b8bacfeaffeb40172dd5f8e17c7e2bb3cfa71c1abda9281aacc7b3cab6" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Pontuação dos viajantes no TripAdvisor]]></source>
+    <translation><![CDATA[Decenas de viajeros en TripAdvisor]]></translation>
+  </word>
+  <word hash="7c57c55b9e13a7dc477e476298358fe211a63fa2fb02c5526a1538b9a2054d48" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Com base em ]]></source>
+    <translation><![CDATA[Basado en ]]></translation>
+  </word>
+  <word hash="2903b2680a7ea75ecab5ab447341b98b7f4f77d0cd7ecc7884df35aeaf075329" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[ avaliações de viajantes]]></source>
+    <translation><![CDATA[ opiniones de]]></translation>
+  </word>
+  <word hash="57bbf8bc77de7b4b0019b04456a50721b24ab5e5fcc6b790e0242f8e0323dad3" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Ranking do TripAdvisor]]></source>
+    <translation><![CDATA[Ranking de TripAdvisor]]></translation>
+  </word>
+  <word hash="ac196dce03e474586df245a3cfcf8f86a9f37da00d5f44c98bdad56ce7b3ff0f" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[97 de 550 ]]></source>
+    <translation><![CDATA[97 550]]></translation>
+  </word>
+  <word hash="940dd9b76d86e8c066122daa912c3e120b0be2f75e34b16bca15f29e501968dd" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[ Excursões em Rio de Janeiro ]]></source>
+    <translation><![CDATA[ Tours en Río de Janeiro ]]></translation>
+  </word>
+  <word hash="760168c77436d56c400dd9834b74856ad658d1fde931f650ba0f4ef301171667" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Avaliações mais recentes de viajantes]]></source>
+    <translation><![CDATA[Últimas opiniones de viajeros]]></translation>
+  </word>
+  <word hash="d1cb9b879a2cd877737697de84dfe0918e3be4192258481d32efb6f7474ad2a1" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[31 de mai de 2018:]]></source>
+    <translation><![CDATA[31 mai 2018:]]></translation>
+  </word>
+  <word hash="874ea5ac77ebc73b65094cd00e3f8dea38f90d733ffd2f9213f46e413bdcb7b4" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[“Foi show”]]></source>
+    <translation><![CDATA["Fue espectáculo"]]></translation>
+  </word>
+  <word hash="056dcaf7ccbb8abbbad702328f211557fcc8734b18ee9c7fc1a0f379ae404d02" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[28 de mai de 2018:]]></source>
+    <translation><![CDATA[28 mai 2018:]]></translation>
+  </word>
+  <word hash="513b091775e39cbec0c4b0b95ffd2b4529314a572f054fdc7db665e991b79392" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[“Excelente escolha”]]></source>
+    <translation><![CDATA["Una excelente opción"]]></translation>
+  </word>
+  <word hash="32259e8d3807e6ef510024ea62bbc6f9a50e238afbfadd7e0e82e2856afa91af" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[25 de mai de 2018:]]></source>
+    <translation><![CDATA[25 mai 2018:]]></translation>
+  </word>
+  <word hash="1655a3f0db86d711b34cdc61cddef9f205e78db4d143559aeda88bdeff762fbb" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[“Prefeito”]]></source>
+    <translation><![CDATA["Mayor"]]></translation>
+  </word>
+  <word hash="5dc57c41b40b96d7094263d316b2835f84607993eae5570b7c23726c9ded68d0" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[22 de mai de 2018:]]></source>
+    <translation><![CDATA[22 mai 2018:]]></translation>
+  </word>
+  <word hash="92df12548c9769faee1fda65a88b3b53f220f990233aac942fcde4261f239b3c" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[“Passeio em Arraial do Cabo”]]></source>
+    <translation><![CDATA["Paseo en Arraial do Cabo"]]></translation>
+  </word>
+  <word hash="2f1b841d58388e1c23b599959cdbf6d4113ea5ac98e21c64ba1befbd0b41268b" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[17 de mai de 2018:]]></source>
+    <translation><![CDATA[17 mai 2018:]]></translation>
+  </word>
+  <word hash="dd89c820859082c30672761c7d062347a58ffc18f8ccf1d5224f1767da11b251" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[“Tour comoleto na cidada do Rio”]]></source>
+    <translation><![CDATA["Comoleto tour en Río ciudadanía"]]></translation>
+  </word>
+  <word hash="4b3b0bd02c2d9ef4f576ec3e932e2633482aafeebe5272efb60afd629cb42f20" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Leia avaliações]]></source>
+    <translation><![CDATA[Leer Comentarios]]></translation>
+  </word>
+  <word hash="a157a8a30581797a16d87bc957f8c23585e18255e7334a09063cc0546de0437e" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Faça uma avaliação]]></source>
+    <translation><![CDATA[Escribe una reseña]]></translation>
+  </word>
+  <word hash="0ba24234436739e7029283573d2d86338b12db1dc4591ab5f388b9dfe9080895" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[© 2018 TripAdvisor LLC]]></source>
+    <translation><![CDATA[© 2018 TripAdvisor LLC]]></translation>
+  </word>
+  <word hash="afc93faa5ed83658086e5a469f18326f65f2547f4a398b62529bcb0d2853a9a1" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Siga-nos no instagram! @smartriotour]]></source>
+    <translation><![CDATA[Síguenos en Instagram! @smartriotour]]></translation>
+  </word>
+  <word hash="22df3df852ba4286247e231497667b7dbfec8b9892944a3dbbb2166629fbe711" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[@smartriotour]]></source>
+    <translation><![CDATA[@smartriotour]]></translation>
+  </word>
+  <word hash="f9ad8a6a71077fa0e071711b43dd6d543192771ac324ac19ff1db24f417457c3" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Os melhores passeios turísticos do Rio de Janeiro você encontra na Smart Rio Tour...]]></source>
+    <translation><![CDATA[La mejor turismo en Río de Janeiro encontrará en el Smart River Tour ...]]></translation>
+  </word>
+  <word hash="9d364e88856b1b1739f542592ba5c203f25f357daa094023103a0a10666ef48c" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Carregar mais...]]></source>
+    <translation><![CDATA[Cargar más ...]]></translation>
+  </word>
+  <word hash="a3fe25c6985eb4ff2c67d2a4ba3954f37be270afa6c4cab59b4f33441e3fbf0c" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Siga a Smart Rio no Instagram]]></source>
+    <translation><![CDATA[Sigue el río inteligente en Instagram]]></translation>
+  </word>
+  <word hash="bd88c3a9b3c42dc706fb4421adaed7e95df25173a78bf80dde7ad0d3a5dbb4ac" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Your Name ]]></source>
+    <translation><![CDATA[su nombre y apellidos ]]></translation>
+  </word>
+  <word hash="009557a4da1e152bdf405ee005a70d6bbdf6a729f1615254d7468133b065fbee" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Email ]]></source>
+    <translation><![CDATA[Email ]]></translation>
+  </word>
+  <word hash="68971283841aecdf1da48428849b3b33164ec5c41d0f3c4d6cea624db5aff8f2" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Subject]]></source>
+    <translation><![CDATA[Sujeto]]></translation>
+  </word>
+  <word hash="fea239f0c9e52ae97b1ba981bec1b0dded59c2850e6c79b97eb7d8112c2ea879" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[
+                        Select Plan
+                        ]]></source>
+    <translation><![CDATA[\n                        Select plan\n                        ]]></translation>
+  </word>
+  <word hash="f9cbb34cb9dc77bec907b1c8241b1c6d5ba019a135d8dc08b349f94dd46327d8" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Personal $29]]></source>
+    <translation><![CDATA[Personal $ 29 de]]></translation>
+  </word>
+  <word hash="79d5d7037b36185cbdfa0917a4869a9536ab6cc595a9b8982f2b56387860fc66" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Enterprise $89]]></source>
+    <translation><![CDATA[Empresa $ 89]]></translation>
+  </word>
+  <word hash="2535e253f8c6a7bf07445190d3a85739d45cbb3397bd72d35a11c51393c82a58" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Business $239]]></source>
+    <translation><![CDATA[Negocio $ 239]]></translation>
+  </word>
+  <word hash="888b8c12e954798b9efa5d0c10687657daeb4f3630e3e1c168cf18c4bd627b20" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[
+                        Additional Installs 
+                        ]]></source>
+    <translation><![CDATA[\n                        Se instala adicionales \n                        ]]></translation>
+  </word>
+  <word hash="d632cd8433ba42adb544e747724a5322b387892709516cf56424739b2e3ef203" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[1 for $10/month]]></source>
+    <translation><![CDATA[1 es $ 10 / mes]]></translation>
+  </word>
+  <word hash="bc18900917a0370cd6663b26a9d4dcab116a6f4b39aaff5e3b76b1947d5e6c67" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[5 for $29/month]]></source>
+    <translation><![CDATA[5 por $ 29 / mes]]></translation>
+  </word>
+  <word hash="7c76b43d46bc9fd9104e74e567b23e274a9fdcb0b42b484f86a7d5ce07a72348" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[10 for $50/month]]></source>
+    <translation><![CDATA[10 es $ 50 / mes]]></translation>
+  </word>
+  <word hash="c74495f2c47e42d3a40addd46268c5935477be80485bd20fe5370c3bf34d4bfc" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[
+                        Additional Storage
+                        ]]></source>
+    <translation><![CDATA[\n                        Almacenamiento adicional\n                        ]]></translation>
+  </word>
+  <word hash="54b9cc10dca2daad390df21473538cc9a127df97c6ebbc4cb646f3de093567ca" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[10GB for $10/month]]></source>
+    <translation><![CDATA[10 GB por $ 10 / mes]]></translation>
+  </word>
+  <word hash="46e0d81431ca1eb5a66422bbcf5744bdb3ee0b138f3eae7f82b4065547992937" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[20GB for $19/month]]></source>
+    <translation><![CDATA[20GB por $ 19 / mes]]></translation>
+  </word>
+  <word hash="d7609831f0b0fc116e93dff6b338bac88bc440acf9cb054b5cf785e2c8e63db4" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[30GB for $25/month]]></source>
+    <translation><![CDATA[30 GB por $ 25 / mes]]></translation>
+  </word>
+  <word hash="fc093eac32d69a2e76525baa5c09be3eab0e953cb73570b53306158751576d87" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[50GB for $35/month]]></source>
+    <translation><![CDATA[50 GB por $ 35 / mes]]></translation>
+  </word>
+  <word hash="a269b18848d2fd9341f8478ca62fb579902ffb2f495f045e967f78c17c685868" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Telefones:]]></source>
+    <translation><![CDATA[los teléfonos:]]></translation>
+  </word>
+  <word hash="213e63100eb5b8936b7db662f22864db37f4e56d0c0cb48673a6423003913e4a" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[+55 (21) 9 6501 6101]]></source>
+    <translation><![CDATA[55 (21) 9 6501 6101]]></translation>
+  </word>
+  <word hash="bc6910aade0f73804492e131d86fd4c8a9a4c151ea9a226603ee92b1e38afbaf" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[+55 (21) 4107 9636]]></source>
+    <translation><![CDATA[+55 (21) 4107 9636]]></translation>
+  </word>
+  <word hash="4547b9aa4dc2a2d88aa6b27839413d97466c4a91f93dae78ad488bc585845c1e" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[+55 (21) 3738 7793]]></source>
+    <translation><![CDATA[+55 (21) 3738 7793]]></translation>
+  </word>
+  <word hash="2168dd27d517ed0715812791d6e9a5ad1f293629774112ec89896081b0748cdb" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[RESERVAR VIA WHATSAPP]]></source>
+    <translation><![CDATA[Reservas a través de WhatsApp]]></translation>
+  </word>
+  <word hash="afaaa14b9e7b1043b6774c6458f7538ce8580ef5057775a2b5eacda4272d0f52" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[RESERVAR ONLINE]]></source>
+    <translation><![CDATA[RESERVA ONLINE]]></translation>
+  </word>
+  <word hash="33aecaf17e49d250d3119a345a3b8e137c7c24d6be0d5e4ca594932fdd5f0ad0" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Veja porque nós somos a melhor opção para Passeios no Rio de Janeiro]]></source>
+    <translation><![CDATA[Ver por qué somos la mejor opción para los viajes en Río de Janeiro]]></translation>
+  </word>
+  <word hash="d18b5322c5bd3457cfcd15f0bd74c5375e4715d0acad91de33d6a3d6dc24fc5a" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Passeios de Barco]]></source>
+    <translation><![CDATA[Excursiones en barco]]></translation>
+  </word>
+  <word hash="03c060adc3a1381acf3e26036bdd0bc6d2c8ad97bfc607c7237ddf3b20d94c1d" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Nossos passeios são realizados nas melhores embarcações e no mais exigentes padrão de qualidade nossos passeios de barco vamos te levar para conhecer as mais belas praias e lugares]]></source>
+    <translation><![CDATA[Nuestros tours se llevan a cabo en los mejores barcos y las más exigentes normas de calidad de nuestros viajes en barco que le llevará a descubrir las más bellas playas y lugares]]></translation>
+  </word>
+  <word hash="16ada6e661fd5b833c45ac310298f556609ee98d5d0946bb9b94632aed91af3e" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Transporte]]></source>
+    <translation><![CDATA[transporte]]></translation>
+  </word>
+  <word hash="01fb2b8a59a6961d7ef412cf34ff031aaff64a1df8e09d302825fba866447c07" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[A Nossa frota possui veículos novos, confortáveis , totalmente legalizados e seguros . Nossos motoristas são treinados e capacitados. Buscamos você em seu hotel.]]></source>
+    <translation><![CDATA[Nuestra flota cuenta con vehículos nuevos, confortables, totalmente legalizados y de seguros. Nuestros conductores están capacitados y calificados. Le buscamos en su hotel.]]></translation>
+  </word>
+  <word hash="5dd26350d48e9e9d495745e6bbb22f484e09b7499b4567667b9f089c1078d414" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Guias de Turismo]]></source>
+    <translation><![CDATA[Guías de Turismo]]></translation>
+  </word>
+  <word hash="2fdf617a0b1c23b17ba2b821de41b8165e49897b4f49800e7f09671c8c5b756c" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Possuímos profissionais treinados e qualificados para acompanhar a sua viagem e transformar seu passeio na melhor experiência possível, digno de uma memória inesquecível.]]></source>
+    <translation><![CDATA[Hemos capacitado y profesionales calificados para acompañar su recorrido y transformar su viaje de la mejor experiencia posible, digno de un recuerdo inolvidable.]]></translation>
+  </word>
+  <word hash="84b3e11a389796843541ef479a5efe7170b2bb07c70ec06bd10da9bcabafce30" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Melhores Restaurantes]]></source>
+    <translation><![CDATA[mejores restaurantes]]></translation>
+  </word>
+  <word hash="f68df21da52a8fc8408b3e2450589c9a0b98e7ef8b5e6854cbc3bb19903a4212" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Em nossos passeios com parada para almoço, você irá desfrutar do melhor da culinária carioca nos melhores restaurantes que o rio pode oferecer, prepare seu paladar.]]></source>
+    <translation><![CDATA[En nuestros viajes con una parada para el almuerzo, podrá disfrutar de lo mejor de la cocina de Río en los mejores restaurantes que el río puede ofrecer, preparar sus papilas gustativas.]]></translation>
+  </word>
+  <word hash="1c5984b5929bfc9cab3a73f623ebe1feb420739a2ae895ffc1cb3d48049f0b8c" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[ATENÇÃO]]></source>
+    <translation><![CDATA[ATENCIÓN]]></translation>
+  </word>
+  <word hash="68fc2b1580951ddd7f7e2bf4ddfe81f632bc1c51bca194023432cfd3c11d360d" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Fique ligado nas “agências” piratas]]></source>
+    <translation><![CDATA[Manténgase atento a las "agencias" piratas]]></translation>
+  </word>
+  <word hash="0db837222f0d4257b518cf69bf850a7643c86e4243f595b8ea76ea0c737a2b2b" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[É muito importante saber se a empresa escolhida possui licença para realizar as operações turísticas. ]]></source>
+    <translation><![CDATA[Es muy importante saber si la empresa elegida tiene licencia para llevar a cabo las operaciones turísticas. ]]></translation>
+  </word>
+  <word hash="b9e3a8be5df9df55200044908c3c8667a656f173418a23e6b7dcc3f456d3b2cd" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[CLIQUE AQUI]]></source>
+    <translation><![CDATA[HAGA CLIC AQUÍ]]></translation>
+  </word>
+  <word hash="6db4b96d66160c9d9aa9ce961457db58d56456f88e6a9ca47b2282a204a7bc2c" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[ para Consultar nossa empresa!]]></source>
+    <translation><![CDATA[ Consulte a nuestra empresa!]]></translation>
+  </word>
+  <word hash="cd817bd81130431bf91b359bb2d9383cd13831fa5829c2cebf86f00b396be51d" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[CNPJ: 29 814 005/0001-30 | CADASTUR: 19.080365.10.0001-3 | ALVARÁ: 1097305-8]]></source>
+    <translation><![CDATA[CNPJ: 29814005 / 0001-30 | Cadastur: 19.080365.10.0001-3 | PERMISO: 1097305-8]]></translation>
+  </word>
+  <word hash="1bc6028ba8379f061b39419bd9d4893b2302085722bfff4c246c0e09bbcaa8e4" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Veículos com Motorista]]></source>
+    <translation><![CDATA[Vehículos con Conductor]]></translation>
+  </word>
+  <word hash="f70c675fbe3fd3f64ae38ab7ab0104a456e2b8f6a440daedbdee3572383f4671" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Van e Doblò]]></source>
+    <translation><![CDATA[Y Van Doblò]]></translation>
+  </word>
+  <word hash="875d09dff33da645a436f066e42442a096d564c2f60ec4f3820b794f4572d8f8" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Tour & Traslado]]></source>
+    <translation><![CDATA[Tour y Transfer]]></translation>
+  </word>
+  <word hash="8f84d41d521a0f9eaa5fba74af83b34942b50f0cd5c6ef10df411cd91e583bff" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Tour Rio de Janeiro • Tour Angra dos Reis • Tour Arraial do Cabo • Tour Búzios • Tour Petrópolis • Transporte executivo • Casamentos • Congressos • Formaturas e Eventos em geral]]></source>
+    <translation><![CDATA[Tour de Río de Janeiro • Angra dos Reis recorrido • Información Arraial do Cabo Buzios • Transporte • Información turística • Petrópolis Ejecutivo • Bodas • Congreso • graduaciones y eventos en general]]></translation>
+  </word>
+  <word hash="3d74258ce9e343643138e1fd3bf43ebd38248d323da5596a510130a53c6fae7a" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Passeio Particular]]></source>
+    <translation><![CDATA[Tour privado]]></translation>
+  </word>
+  <word hash="fac8a577443919d2a8822328cb22d48abe5b5088b8324f21328be1f8a996d76d" date="2018-06-01T16:20:28+00:00">
+    <source><![CDATA[Reúna seus familiares e amigos e faça um passeio exclusivamente seu.]]></source>
+    <translation><![CDATA[Reúna a su familia y amigos y hacer un recorrido exclusivamente suyo.]]></translation>
+  </word>
+</translations>

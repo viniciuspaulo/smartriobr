@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InGallery by Maxiolab\n"
+"POT-Creation-Date: 2017-09-01 11:19+0200\n"
+"PO-Revision-Date: 2017-09-01 11:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: controllers/backend.php:16
+msgid "InGallery"
+msgstr "InGallery"
+
+#: controllers/backend.php:39
+msgid "Albums"
+msgstr "Альбомы"
+
+#: controllers/backend.php:40
+msgid "Layout"
+msgstr "Расположение"
+
+#: controllers/backend.php:41
+msgid "Display"
+msgstr "Отображение"
+
+#: controllers/backend.php:42
+msgid "Colors"
+msgstr "Цвета"
+
+#: controllers/backend.php:43
+msgid "New album"
+msgstr "Новый альбом"
+
+#: controllers/backend.php:44
+msgid "Album name"
+msgstr "Название альбома"
+
+#: controllers/backend.php:45
+msgid "Sources"
+msgstr "Источники"
+
+#: controllers/backend.php:46
+msgid ""
+"List of sources to get media from instagram. Can be any combination of "
+"@username, #hashtag or instagram photo URL separated by comma"
+msgstr ""
+"Список источников фото/видео из Instagram. Может быть любая комбинация из "
+"@юзер, #хэштэг, Instagram URL адрес местоположения или URL адрес фото/видео "
+"в Instagram, разделенных запятой"
+
+#: controllers/backend.php:47
+msgid "Filters"
+msgstr "Фильтры"
+
+#: controllers/backend.php:48
+msgid ""
+"List of filters to filter media from sources by various conditions. Can be "
+"any combination of @username, #hashtag, instagram photo URL, or \"videos\" "
+"keyword separated by comma. \"videos\" keyword means that you need to filter "
+"only videos. Use \"videos\" keyword without quotes, for example: #sexy, "
+"videos"
+msgstr ""
+"Список фильтров, по которым фильтровать источники. Список источников фото/"
+"видео из Instagram. Может быть любая комбинация из @юзер, #хэштэг или URL "
+"адрес фото/видео в Instagram или ключевое слово \"videos\", разделенных "
+"запятой. Ключевое слово \"videos\" означает фильтровать только видео. "
+"Ключевое слово \"videos\" следует использовать без кавычек. Например: #sexy, "
+"videos"
+
+#: controllers/backend.php:49
+msgid "Limit items"
+msgstr "Ограничить кол-во элементов"
+
+#: controllers/backend.php:50
+msgid ""
+"Limit media items in current album. Set to \"0\" to show all available media"
+msgstr ""
+"Ограничить кол-во элементов в этом альбоме. Установите \"0\", для снятия "
+"ограничения."
+
+#: controllers/backend.php:51
+msgid "Type"
+msgstr "Тип"
+
+#: controllers/backend.php:52
+msgid "Columns"
+msgstr "Колонки"
+
+#: controllers/backend.php:53
+msgid "Rows"
+msgstr "Ряды"
+
+#: controllers/backend.php:54
+msgid "Gutter"
+msgstr "Промежуток"
+
+#: controllers/backend.php:55
+msgid "Size in pixels"
+msgstr "Размер в пикселях"
+
+#: controllers/backend.php:56
+msgid "Style"
+msgstr "Стиль"
+
+#: controllers/backend.php:57
+msgid "Display mode"
+msgstr "Режим отображения"
+
+#: controllers/backend.php:58
+msgid "Display on thumbnails"
+msgstr "Показывать в превью"
+
+#: controllers/backend.php:59
+msgid "Likes counter"
+msgstr "Счетчик лайков"
+
+#: controllers/backend.php:60
+msgid "Comments counter"
+msgstr "Счетчик коментариев"
+
+#: controllers/backend.php:61
+msgid "Media description"
+msgstr "Описание"
+
+#: controllers/backend.php:62
+msgid "Display in popup window"
+msgstr "Показывать во всплывающем окне"
+
+#: controllers/backend.php:63
+msgid "Comments"
+msgstr "Комментарии"
+
+#: controllers/backend.php:64
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: controllers/backend.php:65
+msgid "Link to instagram profile on user block"
+msgstr "Ссылка на аккаунт Instagram при клике на блок пользователя"
+
+#: controllers/backend.php:66
+msgid "link to instagram"
+msgstr "Ссылка на аккаунт Instagram"
+
+#: controllers/backend.php:67
+msgid "Created date"
+msgstr "Дата создания"
+
+#: controllers/backend.php:68
+msgid "show in popup window"
+msgstr "показывать во всплывающем окне"
+
+#: controllers/backend.php:69
+msgid "Add filter"
+msgstr "Добавить фильтр"
+
+#: controllers/backend.php:70
+msgid "Except"
+msgstr "Кроме"
+
+#: controllers/backend.php:71
+msgid "Only"
+msgstr "Только"
+
+#: controllers/backend.php:72
+msgid "Add new album"
+msgstr "Добавить альбом"
+
+#: controllers/backend.php:73
+msgid "Cache lifetime"
+msgstr "Время жизни кэша"
+
+#: controllers/backend.php:74
+msgid ""
+"Cache lifetime in seconds. Greater cache lifetime means less server load"
+msgstr ""
+"Время жизни кэша в секундах. Чем больше время жизни кэша, тем меньше "
+"нагрузка на сервер"
+
+#: controllers/backend.php:75
+msgid "Show albums names"
+msgstr "Показывать переключатель альбомов"
+
+#: controllers/backend.php:76
+msgid "Enable \"Load more\""
+msgstr "Включить подгрузку"
+
+#: controllers/backend.php:77
+msgid "Text on a \"Load more\" button"
+msgstr "Надпись на кнопке подгрузки"
+
+#: controllers/backend.php:78
+msgid "Video plays counter"
+msgstr "Счетчик просмотров видео"
+
+#: controllers/backend.php:79 controllers/frontend.php:49
+msgid "Sytem error. Please refresh the page and try again"
+msgstr "Системная ошибка. Пожалуйста обновите страницу и попробуйте еще раз"
+
+#: controllers/backend.php:80 controllers/frontend.php:28
+#: controllers/frontend.php:48
+msgid "Unfortunately, an error occurred"
+msgstr "К сожалению, произошла ошибка"
+
+#: controllers/backend.php:81
+msgid "Congratulations!"
+msgstr "Поздравляю!"
+
+#: controllers/backend.php:82
+msgid "Instagram user block"
+msgstr "Блок пользователя Instagram"
+
+#: controllers/backend.php:83
+msgid "Popup image size"
+msgstr "Размер всплывающего окна"
+
+#: controllers/backend.php:84
+msgid ""
+"For smooth viewing experience choose \"try to fit equal size\". But if you "
+"want small images not to be stretched, choose \"use image size\"."
+msgstr ""
+"Для лушего восприятия выберите \"пытаться использовать единый размер\". Но "
+"если хотите, чтобы маленькие изображения не растягивались, то выберите "
+"\"использовать размер изображения\"."
+
+#: controllers/backend.php:85
+msgid "try to fit equal size"
+msgstr "пытаться использовать единый размер"
+
+#: controllers/backend.php:86
+msgid "use image size"
+msgstr "использовать размер изображения"
+
+#: controllers/backend.php:87
+msgid "Loop video"
+msgstr "Зацыклить видео"
+
+#: controllers/backend.php:88
+msgid "Album buttons colors"
+msgstr "Цвет кнопок переключения альбомов"
+
+#: controllers/backend.php:89
+msgid "Gallery background"
+msgstr "Фон галереи"
+
+#: controllers/backend.php:90
+msgid "Album button background"
+msgstr "Фон кнопок переключения альбомов"
+
+#: controllers/backend.php:91
+msgid "Album button text color"
+msgstr "Цвет надписей на кнопках переключения альбомов"
+
+#: controllers/backend.php:92
+msgid "Album button background on mouse over"
+msgstr "Фон кнопок переключения альбомов при наведении мышкой"
+
+#: controllers/backend.php:93
+msgid "Album button text color on mouse over"
+msgstr "Цвет надписей на кнопках переключения альбомов при наведении мышкой"
+
+#: controllers/backend.php:94
+msgid "\"Load more\" button background"
+msgstr "Фон кнопки подгрузки элементов"
+
+#: controllers/backend.php:95
+msgid "\"Load more\" button text color"
+msgstr "Цвет надписи на кнопке подгрузки элементов"
+
+#: controllers/backend.php:96
+msgid "\"Load more\" button background on mouse over"
+msgstr "Фон кнопки подгрузки элементов при наведении мышкой"
+
+#: controllers/backend.php:97
+msgid "\"Load more\" button text color on mouse over"
+msgstr "Цвет надписи на кнопке подгрузки элементов при наведении мышкой"
+
+#: controllers/backend.php:98
+msgid "\"Load more\" button colors"
+msgstr "Цвета кнопки подгрузки элементов"
+
+#: controllers/backend.php:99
+msgid "Thumbnails colors"
+msgstr "Цвета превьюшек"
+
+#: controllers/backend.php:100
+msgid "Thumbnails overlay background"
+msgstr "Цвет накладки"
+
+#: controllers/backend.php:101
+msgid "Thumbnails overlay text color"
+msgstr "Цвет текста на накладке"
+
+#: controllers/backend.php:102
+msgid "Infinite scrolling"
+msgstr "Бесконечный скроллинг"
+
+#: controllers/backend.php:103
+msgid "Ordering"
+msgstr "Порядок сортировки"
+
+#: controllers/backend.php:104
+msgid "Albums load items equal amount"
+msgstr "Равное количество объектов для каждого альбома"
+
+#: controllers/backend.php:105
+msgid ""
+"When \"Albums load items equal amount\" is selected, then the plugin will "
+"try to load equal amount of items for each album"
+msgstr ""
+"Если выбран тип \"Равное количество объектов для каждого альбома\", то "
+"плагин будет стараться загружать одинаковое количество объектов для каждого "
+"альбома"
+
+#: controllers/backend.php:106
+msgid "RTL (right-to-left)"
+msgstr "RTL (справа-налево)"
+
+#: controllers/backend.php:107
+msgid "Local responsiveness"
+msgstr "Локальная мобильность"
+
+#: controllers/backend.php:212
+msgid "Gallery successfully saved"
+msgstr "Галерея успешно сохранена"
+
+#: controllers/backend.php:230
+msgid "Media code is not set"
+msgstr "Код элемента не найден"
+
+#: controllers/backend.php:235
+msgid "No media found"
+msgstr "Элемент не найден"
+
+#: controllers/backend.php:238
+msgid "No comments found"
+msgstr "Комментарии не найдены"
+
+#: controllers/backend.php:271
+msgid "Gallery ID is not set"
+msgstr "Идентификатор галереи не найден"
+
+#: include/helper.php:546
+msgid "year"
+msgstr "год"
+
+#: include/helper.php:547
+msgid "month"
+msgstr "месяц"
+
+#: include/helper.php:548
+msgid "week"
+msgstr "неделя"
+
+#: include/helper.php:549
+msgid "day"
+msgstr "день"
+
+#: include/helper.php:550
+msgid "hour"
+msgstr "час"
+
+#: include/helper.php:551
+msgid "minute"
+msgstr "минута"
+
+#: include/helper.php:552
+msgid "second"
+msgstr "секунда"
+
+#: include/helper.php:555
+msgid "years"
+msgstr "лет"
+
+#: include/helper.php:556
+msgid "months"
+msgstr "месяцев"
+
+#: include/helper.php:557
+msgid "weeks"
+msgstr "недель"
+
+#: include/helper.php:558
+msgid "days"
+msgstr "дней"
+
+#: include/helper.php:559
+msgid "hours"
+msgstr "часов"
+
+#: include/helper.php:560
+msgid "minutes"
+msgstr "минут"
+
+#: include/helper.php:561
+msgid "seconds"
+msgstr "секунд"
+
+#: include/helper.php:567
+msgid " ago"
+msgstr " назад"
+
+#: include/model.php:77 include/model.php:363
+msgid "Gallery not found"
+msgstr "Галерея не найдена"
+
+#: include/model.php:84 include/model.php:370
+msgid "Wrong gallery format"
+msgstr "Неверный формат галереи"
+
+#: include/model.php:331
+msgid "Please enter gallery name"
+msgstr "Пожалуйста введите название галереи"
+
+#: include/model.php:335
+msgid "You need to create at least one album"
+msgstr "Нужно создать хотябы один альбом"
+
+#: include/model.php:340
+msgid "Every album must have a name"
+msgstr "Каждый альбом должен иметь имя"
+
+#: include/model.php:344
+msgid "Every album must have at least one source"
+msgstr "Каждый альбом должен иметь хотябы один источник"
+
+#: include/model.php:406
+msgid "WP system error"
+msgstr "Системная ошибка WordPress"
+
+#: include/table.class.php:20
+msgid "Name"
+msgstr "Название"
+
+#: include/table.class.php:21
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: include/table.class.php:22
+msgid "Author"
+msgstr "Автор"
+
+#: include/table.class.php:23
+msgid "Date"
+msgstr "Дата"
+
+#: include/table.class.php:39
+msgid "Delete"
+msgstr "Удалить"
+
+#: include/table.class.php:137
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Редактировать &#8220;%s&#8221;"
+
+#: include/table.class.php:146
+msgid "Edit"
+msgstr "Редактировать"
+
+#: include/table.class.php:177
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: include/table.class.php:184
+#, php-format
+msgid "%s ago"
+msgstr "%s назад"
+
+#: include/table.class.php:186
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: include/view.php:44
+#, php-format
+msgid "Template \"%s\" for the view \"%s\" not found."
+msgstr "Шаблон \"%s\" для вида \"%s\" не найден."
+
+#: tmpl/admin/default.php:10
+msgid "Instagram galleries"
+msgstr "Галереи Instagram"
+
+#: tmpl/admin/default.php:11
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: tmpl/admin/default.php:18
+msgid "Search gallery"
+msgstr "Искать галерею"
+
+#: tmpl/admin/edit.php:10
+msgid "Edit gallery"
+msgstr "Редактировать галерею"
+
+#: tmpl/admin/edit.php:13
+msgid "Create gallery"
+msgstr "Создать галерею"
+
+#: tmpl/admin/edit.php:30
+msgid "Save & continue edit"
+msgstr "Соъранить и продолжить редактирование"
+
+#: tmpl/admin/edit.php:31
+msgid "Save & close"
+msgstr "Сохранить и закрыть"
+
+#: tmpl/admin/edit.php:34
+msgid "Enter gallery name here"
+msgstr "Название галереи"
+
+#: tmpl/admin/edit.php:42
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget content"
+msgstr "Скопируйте этот шорткод и вставьте его в содержимое поста или страницы"
+
+#: tmpl/gallery.php:50
+msgid "All albums"
+msgstr "Все альбомы"
+
+#: widgets/vc_widget_ingallery.php:12 widgets/wp_widget_ingallery.php:9
+msgid "inGallery"
+msgstr "inGallery"
+
+#: widgets/vc_widget_ingallery.php:13
+msgid "inGallery by Maxio lab."
+msgstr "inGallery by Maxio lab."
+
+#: widgets/vc_widget_ingallery.php:18
+msgid "Media"
+msgstr "Media"
+
+#: widgets/vc_widget_ingallery.php:24 widgets/wp_widget_ingallery.php:37
+msgid "Gallery"
+msgstr "Галерея"
+
+#: widgets/wp_widget_ingallery.php:10
+msgid "Instagram gallery block"
+msgstr "Блок галереи Instagram"
+
+#~ msgid "RTL"
+#~ msgstr "RTL (справа-налево)"
+
+#~ msgid "Item ordering help"
+#~ msgstr ""
+#~ "Если выбран тип \"Равное количество объектов для каждого альбома\", то "
+#~ "плагин будет стараться загружать одинаковое количество объектов для "
+#~ "каждого альбома"
+
+#~ msgid ""
+#~ "List of filters to filter media from sources by various conditions. Can "
+#~ "be any combination of @username, #hashtag or instagram photo URL "
+#~ "separated by comma"
+#~ msgstr ""
+#~ "List of filters to filter media from sources by various conditions. Can "
+#~ "be any combination of @username, #hashtag or instagram photo URL "
+#~ "separated by comma"
+
+#~ msgid "Show \"Load more\" button"
+#~ msgstr "Show \"Load more\" button"

@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp Contact Button v1.6.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-02 08:36:06+0000\n"
+"Last-Translator: admin <spoot@bk.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wcf2w-admin.php:126
+#@ wcf2w
+msgid "Settings is saved"
+msgstr "Settings is saved"
+
+#. translators: plugin header field 'Name'
+#: wcf2w-admin.php:134
+#: wcf2w.php:0
+#@ wcf2w
+msgid "WhatsApp Contact Button"
+msgstr "WhatsApp Contact Button"
+
+#: wcf2w-admin.php:139
+#@ wcf2w
+msgid "Button Settings"
+msgstr "Button Settings"
+
+#: wcf2w-admin.php:145
+#@ wcf2w
+msgid "Enable button"
+msgstr "Enable button"
+
+#: wcf2w-admin.php:157
+#@ wcf2w
+msgid "Only mobile"
+msgstr "Only mobile"
+
+#: wcf2w-admin.php:164
+#@ wcf2w
+msgid "Show only on mobile devices."
+msgstr "Show only on mobile devices."
+
+#: wcf2w-admin.php:185
+#@ wcf2w
+msgid "Button Color"
+msgstr "Button Color"
+
+#: wcf2w-admin.php:195
+#@ wcf2w
+msgid "Icon Color"
+msgstr "Icon Color"
+
+#: wcf2w-admin.php:205
+#@ wcf2w
+msgid "Position Button"
+msgstr "Position Button"
+
+#: wcf2w-admin.php:213
+#: wcf2w-admin.php:221
+#: wcf2w-admin.php:230
+#@ wcf2w
+msgid "Left"
+msgstr "Left"
+
+#: wcf2w-admin.php:217
+#: wcf2w-admin.php:222
+#: wcf2w-admin.php:240
+#@ wcf2w
+msgid "Right"
+msgstr "Right"
+
+#: wcf2w-admin.php:224
+#@ wcf2w
+msgid "Select position of page."
+msgstr "Select position of page."
+
+#: wcf2w-admin.php:250
+#@ wcf2w
+msgid "Bottom"
+msgstr "Bottom"
+
+#: wcf2w-admin.php:260
+#@ wcf2w
+msgid "Animation Button"
+msgstr "Animation Button"
+
+#: wcf2w-admin.php:277
+#@ wcf2w
+msgid "Select animation effect"
+msgstr "Select animation effect"
+
+#: wcf2w-admin.php:283
+#@ wcf2w
+msgid "Mobile Phone"
+msgstr "Mobile Phone"
+
+#: wcf2w-admin.php:288
+#@ wcf2w
+msgid "Use mobile phone number without \"+\" character. Example: Introduce 79094459070 for (+7) 909-445-90-70."
+msgstr "Use mobile phone number without \"+\" character. Example: Introduce 79094459070 for (+7) 909-445-90-70."
+
+#: wcf2w-admin.php:295
+#@ wcf2w
+msgid "Message"
+msgstr "Message"
+
+#: wcf2w-admin.php:304
+#@ wcf2w
+msgid "Tooltip Settings"
+msgstr "Tooltip Settings"
+
+#: wcf2w-admin.php:310
+#@ wcf2w
+msgid "Text"
+msgstr "Text"
+
+#: wcf2w-admin.php:320
+#@ wcf2w
+msgid "Width"
+msgstr "Width"
+
+#: wcf2w-admin.php:330
+#@ wcf2w
+msgid "Showing"
+msgstr "Showing"
+
+#: wcf2w-admin.php:343
+#@ wcf2w
+msgid "Text Color"
+msgstr "Text Color"
+
+#: wcf2w-admin.php:353
+#@ wcf2w
+msgid "Background Color"
+msgstr "Background Color"
+
+#: wcf2w-admin.php:361
+#@ wcf2w
+msgid "Save"
+msgstr "Save"
+
+#. translators: plugin header field 'PluginURI'
+#: wcf2w.php:0
+#@ wcf2w
+msgid "http://web-cude.com/wcf2w/"
+msgstr "http://web-cude.com/wcf2w/"
+
+#. translators: plugin header field 'Description'
+#: wcf2w.php:0
+#@ wcf2w
+msgid "WhatsApp Contact Button is a WordPress plugin which can create chat with you at WhatsApp."
+msgstr "WhatsApp Contact Button is a WordPress plugin which can create chat with you at WhatsApp."
+
+#. translators: plugin header field 'Author'
+#: wcf2w.php:0
+#@ wcf2w
+msgid "Alex Kuimov"
+msgstr "Alex Kuimov"
+
+#. translators: plugin header field 'AuthorURI'
+#: wcf2w.php:0
+#@ wcf2w
+msgid "http://web-cude.com"
+msgstr "http://web-cude.com"
+
+#: wcf2w-admin.php:335
+#@ wcf2w
+msgid "Hover"
+msgstr "Hover"
+
+#: wcf2w-admin.php:336
+#@ wcf2w
+msgid "Always"
+msgstr "Always"
+
+#: wcf2w-admin.php:337
+#@ wcf2w
+msgid "Disable"
+msgstr "Disable"
+
+#: wcf2w-admin.php:171
+#@ wcf2w
+msgid "Redirect"
+msgstr "Redirect"
+
+#: wcf2w-admin.php:178
+#@ wcf2w
+msgid "Redirect for desktop."
+msgstr "Redirect for desktop."
+
+#. translators: plugin header field 'Version'
+#: wcf2w.php:0
+#@ wcf2w
+msgid "1.6.3"
+msgstr "1.6.3"
+

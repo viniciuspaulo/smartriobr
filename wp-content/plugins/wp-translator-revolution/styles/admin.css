@@ -1,0 +1,1550 @@
+/**
+ * Translator Revolution WP Plugin
+ * http://goo.gl/4E7Mx
+ *
+ * LICENSE
+ *
+ * You need to buy a license if you want use this script.
+ * http://codecanyon.net/legal/market
+ *
+ * @package    Translator Revolution WP Plugin
+ * @copyright  Copyright (c) 2016, SurStudio, www.surstudio.net
+ * @license    http://codecanyon.net/licenses/standard
+ * @version    2.0.6
+ * @date       2016-11-04
+ */
+
+.surstudio_plugin_translator_revolution_lite_no_display {
+	display: none;
+}
+
+.surstudio_plugin_translator_revolution_lite_no_display_important {
+	display: none !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_admin_container {
+	position: relative;
+	font-family: "Open Sans",sans-serif !important;
+	font-size: 13px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_admin_container textarea:focus,
+.surstudio_plugin_translator_revolution_lite_admin_container input:focus,
+.surstudio_plugin_translator_revolution_lite_admin_container select:focus {
+	border: 1px solid #ddd !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_admin_container td,
+.surstudio_plugin_translator_revolution_lite_admin_container textarea,
+.surstudio_plugin_translator_revolution_lite_admin_container input,
+.surstudio_plugin_translator_revolution_lite_admin_container select {
+	font-size: 13px;
+	color: #333;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_admin_container textarea {
+	background-color: #fff !important;
+}
+
+#surstudio_admin {
+	direction: ltr !important;
+}
+
+#surstudio_admin code,
+#surstudio_admin p,
+.surstudio_plugin_translator_revolution_lite_admin_container code,
+.surstudio_plugin_translator_revolution_lite_admin_container p {
+    font-family: "Open Sans",sans-serif !important;
+	font-size: 13px !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_main_navigation {
+	background: #eee;
+}
+
+#surstudio_plugin_translator_revolution_lite_main_navigation li {
+	width: 80px;
+	font-size: 14px;
+	padding: 10px;
+	display: inline-block;
+	float: none !important;
+	margin-bottom: 0 !important;
+	background: #eee;
+}
+
+#surstudio_plugin_translator_revolution_lite_main_navigation li.surstudio_plugin_translator_revolution_lite_ui_tab_selected {
+	background: #32373c;
+}
+
+#surstudio_plugin_translator_revolution_lite_main_navigation li .dashicons-before:before {
+	font-size: 30px;
+	width: 30px;
+	height: 30px;
+}
+
+#backup_tab .button-primary,
+#backup_tab .reset-button,
+#translations_tab .button-primary,
+#translations_tab .reset-button {
+	background-color: #32373c !important;
+    border: 1px solid #32373c !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_admin_container .button-primary,
+.surstudio_plugin_translator_revolution_lite_admin_container .reset-button {
+	display: inline-block;
+	background-color: #239963 !important;
+    border: 1px solid #239963 !important;
+    color: #fff !important;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    white-space: nowrap;
+    padding: 4px 11px !important;
+    text-shadow: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.surstudio_plugin_translator_revolution_lite_admin_container select {
+	height: 23px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_tooltip.dashicons-before:before {
+	font-size: 24px !important;
+	color: #333;
+}
+
+.surstudio_plugin_translator_revolution_lite_tooltip {
+	background: #fff;
+	height: 16px;
+	width: 20px;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 18px;
+	cursor: pointer;
+}
+
+.surstudio_plugin_translator_revolution_lite_icon {
+	background: url(../images/admin/icon.png) no-repeat;
+	float: left;
+	height: 32px;
+	width: 32px;
+	margin: 0 10px 0 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_page_title {
+	line-height: 30px;
+	text-shadow: none;
+	color: #333;
+	margin-bottom: 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_align_left {
+	float: left;
+}
+
+.surstudio_plugin_translator_revolution_lite_imported_translations,
+.surstudio_plugin_translator_revolution_lite_imported_success,
+.surstudio_plugin_translator_revolution_lite_reseted, 
+.surstudio_plugin_translator_revolution_lite_cached_translations_saved,
+.surstudio_plugin_translator_revolution_lite_saved {
+	background: #fff;
+	border: 1px solid #43a047;
+	color: #43a047;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	margin-top: 20px;
+}
+
+.surstudio_plugin_translator_revolution_lite_imported_success p,
+.surstudio_plugin_translator_revolution_lite_reseted p, 
+.surstudio_plugin_translator_revolution_lite_cached_translations_saved p,
+.surstudio_plugin_translator_revolution_lite_saved p {
+	color: #43a047 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_imported_success.surstudio_plugin_translator_revolution_lite_message .surstudio_plugin_translator_revolution_lite_da_icon_container,
+.surstudio_plugin_translator_revolution_lite_reseted.surstudio_plugin_translator_revolution_lite_message .surstudio_plugin_translator_revolution_lite_da_icon_container,
+.surstudio_plugin_translator_revolution_lite_cached_translations_saved.surstudio_plugin_translator_revolution_lite_message .surstudio_plugin_translator_revolution_lite_da_icon_container,
+.surstudio_plugin_translator_revolution_lite_saved.surstudio_plugin_translator_revolution_lite_message .surstudio_plugin_translator_revolution_lite_da_icon_container {
+	background: #43a047 !important;
+}
+
+#surstudio_backup_online_backups {
+    padding: 0 0 15px;
+}
+
+.surstudio_plugin_translator_revolution_lite_list_backups em {
+	padding-left: 5px;
+	line-height: 10px;
+	font-size: 10px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_list_backups span {
+	font-size: 10px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_list_backups,
+.surstudio_plugin_translator_revolution_lite_import_translations_log {
+	border-collapse: collapse;
+}
+
+.surstudio_plugin_translator_revolution_lite_list_backups th,
+.surstudio_plugin_translator_revolution_lite_import_translations_log th {
+	background: #f6f6f6 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_list_backups th,
+.surstudio_plugin_translator_revolution_lite_list_backups td {
+	padding: 5px;
+	border: 1px solid #d4d4d4;
+	white-space: nowrap;
+	background: #fff;
+}
+
+.surstudio_plugin_translator_revolution_lite_list_backups td td {
+	border: none !important;
+	padding: 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_list_backups td td.surstudio_plugin_translator_revolution_lite_list_backups_comment {
+	font-size: 10px !important;
+	padding-left: 5px !important;
+	line-height: 12px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_import_translations_log th,
+.surstudio_plugin_translator_revolution_lite_import_translations_log td {
+	padding: 1px 3px;
+	border: 1px solid #d4d4d4;
+	white-space: nowrap;
+	background: #fff;
+}
+
+.surstudio_plugin_translator_revolution_lite_validate_error {
+	color: #ff0000 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_validate_success {
+	color: #3F7227 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_import_separator {
+	padding-bottom: 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_import_separator table {
+	margin-right: 10px;
+	margin-bottom: 3px;
+}
+
+.surstudio_plugin_translator_revolution_lite_import_separator table,
+.surstudio_plugin_translator_revolution_lite_import_separator table td {
+	vertical-align: top;
+}
+
+.surstudio_plugin_translator_revolution_lite_transexport_item {
+	float: left;
+	width: 251px;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_transexport_first_item {
+	clear: left;
+}
+
+.surstudio_plugin_translator_revolution_lite_transexport .surstudio_plugin_translator_revolution_lite_setting {
+	
+}
+
+.surstudio_plugin_translator_revolution_lite_transexport .surstudio_plugin_translator_revolution_lite_field {
+	float: none !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_cached_translations_saved {
+	width: 756px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_imported_fail,
+.surstudio_plugin_translator_revolution_lite_openssl_validate,
+.surstudio_plugin_translator_revolution_lite_fsockopen_validate,
+.surstudio_plugin_translator_revolution_lite_mcrypt_validate,
+.surstudio_plugin_translator_revolution_lite_api_key_validate,
+.surstudio_plugin_translator_revolution_lite_cache_folder_validate,
+.surstudio_plugin_translator_revolution_lite_cache_file_validate {
+	background: #fff;
+	border: 1px solid #bf252f;
+	color: #300;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	margin-top: 20px;
+}
+
+.surstudio_plugin_translator_revolution_lite_message .surstudio_plugin_translator_revolution_lite_da_icon_container {
+	background: #bf252f !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_validate_warning {
+	color: #ca871c !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_warning_message {
+	background: #fff;
+	border: 1px solid #bf252f !important;
+	color: #bf252f !important;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	margin-top: 20px;
+}
+
+.surstudio_plugin_translator_revolution_lite_warning_message a {
+	color: #bf252f;
+	text-decoration: underline !important;
+	font-weight: bold;
+}
+
+.surstudio_plugin_translator_revolution_lite_warning_message code {
+	background: #fffbcc;
+	font-weight: bold;
+}
+
+.surstudio_plugin_translator_revolution_lite_api_key_validate a {
+	color: #bf252f !important;
+	text-decoration: underline !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_api_key_validate a:hover {
+	color: #bf252f !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_message {
+	margin-left: 0px !important;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.surstudio_plugin_translator_revolution_lite_message p {
+	margin: 0;
+	line-height: 16px;
+	padding: 10px;
+	color: #bf252f;
+}
+
+.surstudio_plugin_translator_revolution_lite_message a {
+	text-decoration: none;
+}
+
+.surstudio_plugin_translator_revolution_lite_message a:hover {
+	text-decoration: underline;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_group {
+	float: left;
+	width: 200px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_order_group {
+	float: left;
+	margin: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_order_item,
+.surstudio_plugin_translator_revolution_lite_language_item {
+	padding-bottom: 7px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_order_item {
+	float: left;
+	margin-right: 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_item label {
+	cursor: pointer;
+	height: 16px;
+	line-height: 10px;
+	white-space: nowrap;
+	font-size: 13px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_order_item td {
+	padding-right: 2px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_item td {
+	padding-right: 2px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language_order_item td,
+.surstudio_plugin_translator_revolution_lite_language_item td {
+	height: 16px;
+	vertical-align: middle;
+	line-height: 10px;
+	white-space: nowrap;
+	font-size: 13px;
+}
+
+.surstudio_plugin_translator_revolution_lite_main_form_container input,
+.surstudio_plugin_translator_revolution_lite_main_form_container select,
+.surstudio_plugin_translator_revolution_lite_main_form_container textarea {
+	line-height: 19px !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_input {
+	width: 300px !important;
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_export .surstudio_plugin_translator_revolution_lite_export,
+.surstudio_plugin_translator_revolution_lite_text .surstudio_plugin_translator_revolution_lite_input,
+.surstudio_plugin_translator_revolution_lite_textarea .surstudio_plugin_translator_revolution_lite_textarea,
+.surstudio_plugin_translator_revolution_lite_upload .surstudio_plugin_translator_revolution_lite_input {
+	width: 550px;
+	border: 1px solid #ddd;
+}
+
+.surstudio_plugin_translator_revolution_lite_export .surstudio_plugin_translator_revolution_lite_export {
+	height: 100px;
+}
+
+.surstudio_plugin_translator_revolution_lite_heading {
+	padding-bottom: 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_heading_enabled h3 {
+	padding-left: 15px;
+	cursor: pointer;
+	background-color: #fff;
+	background-image: url(../images/admin/heading.png);
+	background-repeat: no-repeat;
+	background-position: 2px -27px;
+}
+
+.surstudio_plugin_translator_revolution_lite_heading_showing h3 {
+	background-position: 2px -22px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_heading_hiding h3 {
+	background-position: 2px 10px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_size .surstudio_plugin_translator_revolution_lite_separator {
+	float: left;
+	display: block;
+	width: 20px;
+	height: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_transimport .surstudio_plugin_translator_revolution_lite_separator {
+	padding-right: 3px;
+}
+
+.surstudio_plugin_translator_revolution_lite_size .surstudio_plugin_translator_revolution_lite_input {
+	width: 40px;
+}
+
+.surstudio_plugin_translator_revolution_lite_textarea .surstudio_plugin_translator_revolution_lite_textarea {
+	height: 100px;
+}
+
+.surstudio_plugin_translator_revolution_lite_visual .surstudio_plugin_translator_revolution_lite_visual_option {
+	display: none;
+}
+
+.surstudio_plugin_translator_revolution_lite_images .surstudio_plugin_translator_revolution_lite_image_checked img,
+.surstudio_plugin_translator_revolution_lite_visual .surstudio_plugin_translator_revolution_lite_visual_checked {
+	border: 2px solid #666 !important;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.surstudio_plugin_translator_revolution_lite_images .surstudio_plugin_translator_revolution_lite_images_select_container img {
+	border: 2px solid #fff;
+	cursor: pointer;
+	padding: 1px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language .surstudio_plugin_translator_revolution_lite_field {
+	margin-top: 4px;
+}
+
+.surstudio_plugin_translator_revolution_lite_visual .surstudio_plugin_translator_revolution_lite_field {
+	border: 2px solid #fff;
+	padding: 1px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+}
+
+.surstudio_plugin_translator_revolution_lite_visual .surstudio_plugin_translator_revolution_lite_visual_new_row {
+	clear: both;
+}
+
+select.surstudio_plugin_translator_revolution_lite_select {
+	width: 300px;
+	height: 27px !important;
+	padding: 5 !important;
+	border: 1px solid #ddd;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+
+#surstudio_translations_import_resource {
+	width: 300px !important;;
+}
+
+.surstudio_plugin_translator_revolution_lite_transimport select.surstudio_plugin_translator_revolution_lite_select {
+	width: 180px;
+}
+
+#surstudio_backup_type .surstudio_plugin_translator_revolution_lite_radio_option,
+.surstudio_plugin_translator_revolution_lite_transimport .surstudio_plugin_translator_revolution_lite_radio_option,
+.surstudio_plugin_translator_revolution_lite_radio .surstudio_plugin_translator_revolution_lite_radio_option,
+.surstudio_plugin_translator_revolution_lite_toggle .surstudio_plugin_translator_revolution_lite_radio_option,
+.surstudio_plugin_translator_revolution_lite_checkbox .surstudio_plugin_translator_revolution_lite_checkbox {
+	margin: 1px 5px 1px 1px !important;
+	border: 1px solid #bbb !important;
+}
+
+input.surstudio_plugin_translator_revolution_lite_radio_option[type=radio]:checked:before {
+	background: #666 !important;
+}
+
+input.surstudio_plugin_translator_revolution_lite_checkbox {
+	margin-right: 2px;
+}
+
+input.surstudio_plugin_translator_revolution_lite_checkbox[type=checkbox]:checked:before {
+	color: #666 !important;
+}
+
+#surstudio_backup_type {
+	margin-bottom: 10px;
+}
+
+#surstudio_translations_import_action table,
+#surstudio_backup_type table,
+.surstudio_plugin_translator_revolution_lite_radio table table {
+	margin-right: 20px;
+}
+
+#surstudio_translations_import_action table label,
+#surstudio_backup_type table label,
+.surstudio_plugin_translator_revolution_lite_transexport_item label,
+.surstudio_plugin_translator_revolution_lite_toggle_container label,
+.surstudio_plugin_translator_revolution_lite_radio table table label {
+	line-height: 23px;
+}
+
+.surstudio_plugin_translator_revolution_lite_input {
+	width: 400px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background: #fff !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_main_form_container {
+	clear: both; 
+	border-left: 1px solid #bbb; 
+	border-bottom: 1px solid #bbb; 
+	border-right: 1px solid #bbb; 
+	background: #fff; 
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_disabled {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	background: #32373c;
+	z-index: 1;
+	color: #fff;
+	text-align: center;
+	height: 200px;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_disabled a {
+	color: #fff !important;
+	text-decoration: underline !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_disabled table {
+	width: 100%;
+	height: 200px;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_disabled table td {
+	text-align: center;
+	vertical-align: middle;
+	color: #fff;
+	font-size: 14px;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_loading {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	background: #32373c;
+	-moz-opacity: 0.95;
+	filter: alpha(opacity:95);
+	opacity: 0.95;
+	z-index: 1;
+	background-image: url(../images/admin/loading.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#section_surstudio_languages_order {
+	padding-bottom: 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_section {
+	padding-bottom: 5px;
+	clear: both;
+	position: relative;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_tabbed_1 {
+	padding-left: 20px;
+	background-image: url(../images/admin/tabbed_1.png);
+	background-repeat: repeat-y;
+	background-position: 7px top;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_tabbed_2 {
+	padding-left: 40px;
+	background-image: url(../images/admin/tabbed_2.png);
+	background-repeat: repeat-y;
+	background-position: 7px top;
+}
+
+.surstudio_plugin_translator_revolution_lite_section_tabbed_3 {
+	padding-left: 60px;
+	background-image: url(../images/admin/tabbed_3.png);
+	background-repeat: repeat-y;
+	background-position: 7px top;
+}
+
+.surstudio_plugin_translator_revolution_lite_loading {
+	background-repeat: no-repeat;
+	background-position: 0 5px;
+	width: 16px;
+	height: 16px;
+}
+
+.surstudio_plugin_translator_revolution_lite_title {
+	border-bottom: 1px solid #bbb;
+	color: #333;
+	margin: 0 0 10px 0px;
+	padding: 5px 0 7px;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+.surstudio_plugin_translator_revolution_lite_title_10 {
+	clear: both; 
+	padding-top: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_language .surstudio_plugin_translator_revolution_lite_title {
+	margin-bottom: 7px;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings,
+#surstudio_plugin_translator_revolution_lite_welcome {
+	margin: 20px 20px 0 2px;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings .button:active,
+#surstudio_plugin_translator_revolution_lite_settings .button,
+#surstudio_plugin_translator_revolution_lite_welcome .button:active,
+#surstudio_plugin_translator_revolution_lite_welcome .button {
+	-webkit-transform: none !important;
+	-moz-transform: none !important;
+	-ms-transform: none !important;
+	-o-transform: none !important;
+	transform: none !important;
+	height: 29px !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings .surstudio_plugin_translator_revolution_lite_page_title_container button,
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_page_title_container button {
+	float: right;
+	margin: 25px 25px 0 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_page_title_container {
+	padding: 0;
+	background: #32373c;
+	margin-bottom: 20px;
+	border: none;
+	height: 80px;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings .surstudio_plugin_translator_revolution_lite_page_title,
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_page_title {
+	margin: 0;
+	color: #fff;
+	font-weight: normal !important;
+	font-size: 24px;
+	font-family: 'Open Sans', sans-serif;
+	float: left;
+	margin: 0;
+	line-height: 80px;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings button,
+#surstudio_plugin_translator_revolution_lite_welcome button {
+	background-color: #239963;
+	border: 1px solid #239963 !important;
+	color: #fff;
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	white-space: nowrap;
+	padding: 4px 11px;
+	text-shadow: none;
+	border: none;
+	outline: none;
+	box-shadow: none;
+	cursor: pointer;
+}
+
+.surstudio_plugin_translator_revolution_lite_submit_container button {
+	margin-right: 2px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_history,
+.surstudio_plugin_translator_revolution_lite_newsletter,
+.surstudio_plugin_translator_revolution_lite_verify,
+.surstudio_plugin_translator_revolution_lite_version {
+	background: #fff;
+	padding-bottom: 0;
+	margin-bottom: 20px;
+	border: 1px solid #bbb;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_title {
+	color: #333;
+	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 19px;
+	line-height: 33px;
+	padding: 8px 15px;
+	background: #eee;
+	border-bottom: 1px solid #bbb;
+	margin-bottom: 0;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_field td {
+	padding: 5px;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_field {
+	padding: 5px 15px 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_sub_title {
+	font-weight: bold;
+}
+
+#surstudio_plugin_translator_revolution_lite_newsletter_info .surstudio_plugin_translator_revolution_lite_field,
+#surstudio_plugin_translator_revolution_lite_verify_info .surstudio_plugin_translator_revolution_lite_field,
+#section_surstudio_version .surstudio_plugin_translator_revolution_lite_field {
+	padding: 10px 15px 0 !important;
+}
+
+#section_surstudio_newsletter ul,
+#section_surstudio_verify ul {
+	padding-left: 20px;
+}
+
+#section_surstudio_newsletter li,
+#section_surstudio_verify li {
+	list-style-type: disc;
+}
+
+#section_surstudio_version td td,
+#section_surstudio_newsletter td td,
+#section_surstudio_verify td td {
+	padding-left: 0 !important;
+}
+
+#section_surstudio_newsletter .surstudio_plugin_translator_revolution_lite_label,
+#section_surstudio_verify .surstudio_plugin_translator_revolution_lite_label {
+	width: 140px;
+}
+
+#surstudio_plugin_translator_revolution_lite_verify_step_3 table table {
+	min-width: 600px;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_field #surstudio_plugin_translator_revolution_lite_newsletter_step_3 td td {
+	padding: 3px 0;
+}
+
+#surstudio_plugin_translator_revolution_lite_newsletter_step_3 em {
+	font-weight: bold;
+}
+
+.surstudio_plugin_translator_revolution_lite_verify_icon {
+	width: 30px;
+	height: 30px;
+	color: #333;
+	margin-right: 3px;
+}
+
+.surstudio_plugin_translator_revolution_lite_verify_icon:before {
+	font-size: 20px;
+}
+
+.surstudio_plugin_translator_revolution_lite_da_icon_main {
+	position: relative !important;
+	float: left !important;
+    width: 100px !important;
+	height: 61px !important;
+	text-align: center !important;
+	color: #fff !important;
+	padding-top: 19px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_da_icon_main .dashicons-before:before {
+	font-size: 40px !important;
+	width: 40px !important;
+	height: 40px !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings .surstudio_plugin_translator_revolution_lite_da_icon_container .dashicons-before {
+	width: 30px !important;
+	height: 30px !important;
+	text-align: center;
+	padding: 11px 0 8px 0;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings .surstudio_plugin_translator_revolution_lite_da_icon_container .dashicons-before:before {
+	font-size: 30px;
+	width: 30px !important;
+	height: 30px !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_settings .surstudio_plugin_translator_revolution_lite_da_icon_container {
+	position: relative;
+	color: #fff;
+	background: #32373c;
+	padding: 0 10px;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_da_icon_container .dashicons-before {
+	width: 36px !important;
+	height: 30px !important;
+	text-align: center;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_da_icon_container .dashicons-before:before {
+	font-size: 30px;
+	width: 36px !important;
+	height: 30px !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_da_icon_container {
+	position: relative;
+	color: #fff;
+	background: #32373c;
+	padding: 0 12px;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome a {
+	color: #333 !important;
+	text-decoration: underline;
+}
+
+.surstudio_plugin_translator_revolution_lite_version_button_container {
+	padding: 10px 0 15px 0;
+	clear: both;
+}
+
+.surstudio_plugin_translator_revolution_lite_newsletter_button_container,
+.surstudio_plugin_translator_revolution_lite_verify_button_container {
+	padding: 0 0 15px 0;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_newsletter_button_container button,
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_version_button_container button,
+#surstudio_plugin_translator_revolution_lite_welcome .surstudio_plugin_translator_revolution_lite_verify_button_container button {
+	margin-right: 15px !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_version_up_to_date {
+	border: 1px solid #239963;
+	float: left;
+	padding: 7px 10px;
+	color: #239963;
+	margin: 5px 0 !important;
+}
+
+#surstudio_plugin_translator_revolution_lite_support_pin {
+	border: 1px solid #239963;
+	margin: 10px 0 0 0;
+	display: block;
+	float: left;
+	padding: 7px 10px;
+	color: #239963;
+}
+
+#surstudio_plugin_translator_revolution_lite_welcome button#surstudio_plugin_translator_revolution_lite_version_update_now {
+	cursor: auto !important;
+	color: #239963;
+	background: #fff;
+	border: 1px solid white !important;
+    padding: 4px 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_title_container {
+	position: relative;
+}
+
+.surstudio_plugin_translator_revolution_lite_title_container button {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_field {
+	float: left;
+}
+
+.surstudio_plugin_translator_revolution_lite_field input {
+	float: left;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_field textarea {
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_field a {
+	text-decoration: none;
+	color: #333 !important;
+	text-decoration: underline !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_field a:hover {
+	color: #333 !important;
+	text-decoration: underline !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_code_container {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 2px 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_code_container code {
+	background: none;
+	color: #fff;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	padding: 0;
+}
+
+
+.surstudio_plugin_translator_revolution_lite_clear {
+	clear: both;
+}
+
+.surstudio_plugin_translator_revolution_lite_submit_top_container {
+	position: absolute;
+	right: 25px;
+	top: 30px;
+}
+
+.surstudio_plugin_translator_revolution_lite_submit_container {
+	border-top: 1px solid #bbb;
+	padding: 5px;
+	background: #eee;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_upload_image {
+	margin: 1px 0 0 10px;
+	float: left;
+}
+
+.surstudio_plugin_translator_revolution_lite_preview_image {
+	margin: 3px 0 0 10px;
+	padding-left: 20px;
+	background-image: url(../images/admin/preview.png);
+	background-repeat: no-repeat;
+	float: left;
+	font-size: 11px;
+	color: #888;
+}
+
+.surstudio_plugin_translator_revolution_lite_preview_image:hover {
+	color: #444;
+	text-decoration: none !important;
+	background-position: 0 -20px;
+}
+
+#surstudio_plugin_translator_revolution_lite_image_preview {
+	position: absolute;
+	border: 1px solid #dfdfdf;
+	background: #fff;
+	padding: 5px;
+	display: none;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_submit_container form {
+	margin: 0;
+	padding: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_submit_container input {
+	margin-right: 3px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_submit_sub_container {
+	text-align: left;
+}
+
+.surstudio_plugin_translator_revolution_lite_submit_sub_container form {
+	display: inline;
+}
+
+.surstudio_plugin_translator_revolution_lite_range .surstudio_plugin_translator_revolution_lite_field {
+
+}
+
+.surstudio_plugin_translator_revolution_lite_field_range {
+	margin-top: 11px;
+	height: 4px;
+	border: 1px solid #bbb;
+	position: relative;
+	float: left;
+	width: 548px;
+	background: #f6f6f6;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_field_range a {
+	top: -9px;
+	height: 20px;
+	position: absolute;
+	width: 4px;
+	z-index: 2;
+	border: 1px solid #aaa;
+	background: #f6f6f6;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 2px;
+	margin-left: -3px;
+}
+
+.surstudio_plugin_translator_revolution_lite_field_unit {
+	float: left;
+	margin-left: 5px;
+	line-height: 23px;
+}
+
+.surstudio_plugin_translator_revolution_lite_field_unit_alt {
+	float: left;
+	margin-right: 5px;
+	line-height: 23px;
+}
+
+.surstudio_plugin_translator_revolution_lite_field_unit small,
+.surstudio_plugin_translator_revolution_lite_field_unit_alt small {
+	color: #444;
+}
+
+.surstudio_plugin_translator_revolution_lite_toggle_container {
+	float: left;
+	margin-right: 20px;
+}
+
+.surstudio_plugin_translator_revolution_lite_range .surstudio_plugin_translator_revolution_lite_field input {
+	background: #fff;
+	float: left;
+	margin-left: 5px;
+	width: 80px;
+}
+
+.surstudio_plugin_translator_revolution_lite_field_range .ui-state-hover,
+.surstudio_plugin_translator_revolution_lite_field_range .ui-state-active {
+	background: #fff;
+}
+
+.surstudio_plugin_translator_revolution_lite_expage td,
+.surstudio_plugin_translator_revolution_lite_expost td,
+.surstudio_plugin_translator_revolution_lite_excategory td {
+	padding-right: 2px;
+}
+
+/* ============================= tabs ================================== */
+
+.surstudio_plugin_translator_revolution_lite_main_form_container .surstudio_plugin_translator_revolution_lite_ui_tab {
+	padding: 10px 30px;
+	margin-bottom: -3px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_main_form_container .surstudio_plugin_translator_revolution_lite_ui_tab span {
+	float: left;
+}
+
+.surstudio_plugin_translator_revolution_lite_main_form_container .surstudio_plugin_translator_revolution_lite_ui_tab .dashicons-before {
+    float: left;
+    margin: -1px 3px 0 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab {
+	display: inline-block;
+	text-align: center; 
+	list-style: none;
+	color: #666;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab:hover {
+	color: #333;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_unselected {
+	cursor: pointer;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_selected {
+	background: #fff;
+	color: #fff !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_selected:hover {
+	color: #fff !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_last {
+	border-right: 1px solid #8a8a8a; 
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_important {
+	color: #ffffff;
+	background: #ff0000;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_separator {
+	float: left; 
+	width: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container {
+	margin: 5px auto 0px auto;
+	border-top: 1px solid #bbb;
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #bbb;
+	background: #eee;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container ul {
+	margin: 0;
+	padding: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container ul li.surstudio_plugin_translator_revolution_lite_ui_tab_selected {
+	background: #32373c;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container ul li span {
+	
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container ul li span {
+	/*padding: 0 0 0 10px;*/
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container ul li span span {
+	/*padding: 0 10px 0 0;*/
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container ul li.surstudio_plugin_translator_revolution_lite_ui_tab_selected span {
+	background-position: left -39px;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_container ul li.surstudio_plugin_translator_revolution_lite_ui_tab_selected span span {
+	background-position: right -39px;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tabs_main_container {
+	clear: both; 
+	text-align: center;
+	top: 0;
+	left: 0;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_container {
+	clear: both; 
+	text-align: center;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_content {
+	text-align: left;
+	padding: 5px 10px 10px 10px; 
+	margin: 0 auto;
+	position: relative;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_content_alt {
+	text-align: left;
+	padding: 10px; 
+	margin: 0 auto;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_content_table {
+	width: 515px;
+	margin: 10px auto;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_content_table_no_margin_bottom {
+	width: 515px; 
+	margin: 10px auto 0px auto;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_content_table_property {
+	font-weight: bold; 
+	text-align: right; 
+	width: 162px;
+	line-height: 26px; 
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_content_table_property_long {
+	font-weight: bold; 
+	text-align: right; 
+	width: 265px;
+	line-height: 26px; 
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_tab_content_table_property_long_complement {
+	width: 250px;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_next_tab_container {
+	padding: 10px; 
+	margin: 0px auto 40px auto; 
+	border-top: 1px solid #8a8a8a;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_subtabs_container {
+	margin: 0 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_unique_tab_container {
+	vertical-align: top; 
+	width: 113px; 
+	padding-right: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_unique_tab_container_no_width {
+	vertical-align: top; 
+	padding-right: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_single_tab_content_table {
+	margin: 10px auto;
+}
+
+.surstudio_plugin_translator_revolution_lite_ui_single_tab_content_table_property {
+	font-weight: bold; 
+	text-align: right; 
+	line-height: 26px; 
+}
+
+.surstudio_plugin_translator_revolution_lite_sample_language {
+	background-image: url(../images/admin/sample_language.png);
+	background-position: right top;
+	height: 28px;
+	width: 148px;
+	display: block;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+
+#surstudio_translations_cached_translations textarea {
+	width: 100%;
+	height: 50px;
+}
+
+.surstudio_plugin_translator_revolution_lite_cached_translations_search_container {
+	float: right;
+	font-weight: normal !important;
+	margin-top: -7px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_cached_translations_search_container .surstudio_plugin_translator_revolution_lite_input {
+	width: 100px !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_cached_translations_container {
+	padding-right: 50px;
+	height: 400px;
+	overflow-y: auto;
+	margin-bottom: 10px;
+}
+
+#surstudio_translations_import_csv {
+	padding: 0 !important;
+}
+
+#surstudio_translations_import_csv_ufk,
+#surstudio_translations_import_csv_fk {
+	width: 180px !important;
+	margin-right: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_file_upload_container {
+	position: relative;
+	vertical-align: top; 
+	height: 26px;
+}
+
+.surstudio_plugin_translator_revolution_lite_file_upload_container_div { 
+	position:absolute;
+	top: 0;
+	left: 0;
+	margin: 0;
+	vertical-align: top;
+}
+
+.surstudio_plugin_translator_revolution_lite_file_upload {
+	position: relative;
+	text-align: right;
+	z-index: 2;
+	width: 250px;
+	height: 2.244em;
+	font-size: 100%;
+	-moz-opacity: 0;
+	filter: alpha(opacity:0);
+	opacity: 0
+}
+
+.surstudio_plugin_translator_revolution_lite_file_upload input {
+	float: right;
+	cursor: pointer;
+}
+
+.surstudio_plugin_translator_revolution_lite_button_hover {
+	background: #fafafa !important;
+	border-color: #999 !important;
+	color: #222 !important;
+	cursor: pointer !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_z_index_1 {
+	z-index: 1;
+}
+
+.surstudio_plugin_translator_revolution_lite_z_index_3 {
+	z-index: 3;
+}
+
+.surstudio_plugin_translator_revolution_lite_selected_label {
+	text-shadow: none;
+	font-weight: bold; 
+	color: #333 !important;
+}
+
+#surstudio_translations_cached_translations_buttons {
+	border-top: 1px solid #ccc;
+	clear: both;
+	padding-top: 10px;
+}
+
+#surstudio_translations_export_translations_buttons,
+#surstudio_translations_import_translations_buttons,
+#surstudio_translations_cached_translations_buttons {
+	border-top: 1px solid #ccc;
+	clear: both;
+	padding-top: 10px;
+}
+
+.surstudio_plugin_translator_revolution_lite_transexport_parent {
+	background-image: url(../images/admin/checkbox_parent.png);
+	background-repeat: no-repeat;
+	background-position: 7px center;
+}
+
+#surstudio_translations_export_translations_buttons {
+
+}
+
+#surstudio_translations_import_translations_buttons {
+	margin-top: 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_cached_translation_gt {
+	padding: 0 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_faq ul {
+	padding: 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_faq ul li {
+	margin: 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_faq .surstudio_plugin_translator_revolution_lite_faq_details {
+	
+}
+
+.surstudio_plugin_translator_revolution_lite_faq b {
+	font-weight: bold;
+}
+
+.surstudio_plugin_translator_revolution_lite_faq ol h4 {
+	margin: 0 !important;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+.surstudio_plugin_translator_revolution_lite_faq ol,
+.surstudio_plugin_translator_revolution_lite_support ol {
+	list-style-type: none;
+	list-style-type: decimal !ie; /*IE 7- hack*/
+	margin: 0;
+	margin-left: 1.5em;
+	padding: 0;
+	counter-reset: li-counter;
+}
+
+.surstudio_plugin_translator_revolution_lite_faq ol > li,
+.surstudio_plugin_translator_revolution_lite_support ol > li {
+	position: relative;
+	margin-bottom: 15px;
+	padding-left: 0.5em;
+	min-height: 2em;
+	border-left: 1px solid #CCCCCC;
+}
+
+.surstudio_plugin_translator_revolution_lite_faq ol > li:before,
+.surstudio_plugin_translator_revolution_lite_support ol > li:before {
+	position: absolute;
+	top: 0;
+	left: -1em;
+	width: 0.8em;
+	font-size: 16px;
+	line-height: 1;
+	font-weight: bold;
+	text-align: right;
+	color: #464646;
+	content: counter(li-counter);
+	counter-increment: li-counter;
+}
+
+.surstudio_plugin_translator_revolution_lite_settings_tooltip ol,
+.surstudio_plugin_translator_revolution_lite_settings_tooltip ul {
+	margin: 12px 0 0 24px !important;
+}
+
+#section_surstudio_backup .surstudio_plugin_translator_revolution_lite_welcome_tooltip {
+	background: #000 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_settings_tooltip,
+.surstudio_plugin_translator_revolution_lite_welcome_tooltip {
+	position: absolute;
+	background: #300;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	padding: 4px 8px;
+	max-width: 500px;
+}
+
+.surstudio_plugin_translator_revolution_lite_settings_tooltip a {
+	color: #fff !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_settings_tooltip .ui-tooltip-content,
+.surstudio_plugin_translator_revolution_lite_welcome_tooltip .ui-tooltip-content {
+	position: relative !important;
+	color: #fff !important;
+	font-size: 12px !important;
+	font-family: "Open Sans",sans-serif !important;
+}
+
+.prisna_wp_translate_code_container {
+	margin-bottom: 5px;
+}
+
+.surstudio_plugin_translator_revolution_lite_settings_tooltip code {
+	font-family: "Open Sans",sans-serif !important;
+	color: #fff !important;
+	font-size: 12px !important;
+    -moz-border-radius: 3px !important;
+    -webkit-border-radius: 3px !important;
+    border-radius: 3px !important;
+    background: #000 !important;
+    padding: 3px 6px !important;
+    margin: 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_welcome_tooltip .ui-tooltip-content::after {
+    content: '' !important;
+    position: absolute !important;
+    border-style: solid !important;
+    display: block !important;
+    width: 0 !important;
+	top: 4px !important;
+	left: -13px !important;
+	border-color: transparent #333 !important;
+	border-width: 5px 5px 5px 0 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_welcome_tooltip,
+.surstudio_plugin_translator_revolution_lite_settings_tooltip,
+.surstudio_plugin_translator_revolution_lite_welcome_tooltip .ui-tooltip,
+.surstudio_plugin_translator_revolution_lite_settings_tooltip .ui-tooltip {
+	background: #333 !important;
+}
+
+.surstudio_plugin_translator_revolution_lite_settings_tooltip .ui-tooltip-content::after {
+    content: '' !important;
+    position: absolute !important;
+    border-style: solid !important;
+    display: block !important;
+    width: 0 !important;
+	top: 4px !important;
+	right: -13px !important;
+    border-color: transparent #333 !important;
+    border-width: 5px 0 5px 5px !important;
+}

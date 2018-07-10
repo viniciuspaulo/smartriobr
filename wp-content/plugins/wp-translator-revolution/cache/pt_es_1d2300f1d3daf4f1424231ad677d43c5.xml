@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="pt" to="es" domain="1d2300f1d3daf4f1424231ad677d43c5" scope="/reserva-aluguel/">
+  <word hash="891cc35812fe8b530d4d70ed953dbc71c1fac3e3cd48ab2833d2926790fe62ce" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  Fale Conosco]]></source>
+    <translation><![CDATA[Hable con nosotros]]></translation>
+  </word>
+  <word hash="c21cc8254b0f63428c352fd39c01c2fea4683fdc2504fdf10d5be97d224b7081" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[Contato & Mídias]]></source>
+    <translation><![CDATA[Contacto y Medios]]></translation>
+  </word>
+  <word hash="87b6edd37d845d7b59063bbe1090c844a8098ca3ff430fd2fa8ff8a90a3a8596" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  /smartriotour]]></source>
+    <translation><![CDATA[/ smartriotour]]></translation>
+  </word>
+  <word hash="3b6a7b3bab9bedba5120c8a15916d5a90a63b8718d6321970e3d364d13a2f64b" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  @smartriotour]]></source>
+    <translation><![CDATA[@smartriotour]]></translation>
+  </word>
+  <word hash="c06e48e42e64b226abb51e14d317839912471b28b1ffdbec8a75b16498f5c9d0" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  +55 21 96501•6101]]></source>
+    <translation><![CDATA[+55 21 96501 • 6101]]></translation>
+  </word>
+  <word hash="e92f147c40699b74682aced04d33132411d01a38ffd357412a2d298ec8b9e9b3" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  +55 21 4107•9636]]></source>
+    <translation><![CDATA[+55 21 4107 9636 •]]></translation>
+  </word>
+  <word hash="ac94a638ac38b228e66c0cc772045edeccb4f6849a93bff33a35abbf68d0ea9b" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  +55 21 3738•7793]]></source>
+    <translation><![CDATA[+55 21 3738 7793 •]]></translation>
+  </word>
+  <word hash="ce96d8c97cb2ac52b4b1031b720b8d8243cdd7669209f9c7b7d0007f2ad84df3" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[Turismo Legal]]></source>
+    <translation><![CDATA[Información fresca]]></translation>
+  </word>
+  <word hash="d0dc8c213bcc9e28e98b6a7e703cd19a57da53a9930c3976920817dc8e1f8d73" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[Formas de Pagamento]]></source>
+    <translation><![CDATA[Formas de pago]]></translation>
+  </word>
+  <word hash="e36b74c46cc7c05375b6ceb120ebdd34ba2562f7f6c0b913a91416dcffda8ce0" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  Crédito]]></source>
+    <translation><![CDATA[crédito]]></translation>
+  </word>
+  <word hash="0c4bcc2acf75d183f29cb679da2c50b1f33c7ec1ec20891c16fd231ce5d5c8c5" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[  Débito]]></source>
+    <translation><![CDATA[débito]]></translation>
+  </word>
+  <word hash="c1031fd8adf19e9d1a57a4f61eeb8e00c550788a978a592896e7ec1967aeca4d" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[
+		© 2018 Passeio RJ, Passeio de Barco, Pontos turísticos RJ, Tour | Smart Rio Tour.	]]></source>
+    <translation><![CDATA[© 2018 RJ Walk, viaje en barco, lugares turísticos RJ, Información | River Tour inteligente.]]></translation>
+  </word>
+  <word hash="d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[Facebook]]></source>
+    <translation><![CDATA[Facebook]]></translation>
+  </word>
+  <word hash="bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[Instagram]]></source>
+    <translation><![CDATA[Instagram]]></translation>
+  </word>
+  <word hash="8fa3899e9b32ade1ec2b880c24414579da3ec8a13b9b469b29c31be378aa5b07" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[Linkedin]]></source>
+    <translation><![CDATA[Linkedin]]></translation>
+  </word>
+  <word hash="2d25badd29356dccfe4b8a650568ed589cc87e24e29046122435874d7eba3467" date="2018-05-18T23:51:56+00:00">
+    <source><![CDATA[Go to Top]]></source>
+    <translation><![CDATA[Ir al Inicio]]></translation>
+  </word>
+  <word hash="10517b1d0a6ff3c26aeaec25ffc03996ad42c921e30bad219787cafbbc5fc38e" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Whatsapp! +55 (21) 9 6501 6101]]></source>
+    <translation><![CDATA[Whatsapp! 55 (21) 9 6501 6101]]></translation>
+  </word>
+  <word hash="5b31d7b144bcc13996d55029904eba660c0c41d3e35acf2b9d3190e279c0dbb7" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[contato@smartriotour.com.br]]></source>
+    <translation><![CDATA[contato@smartriotour.com.br]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="0f3d9441cee3586bf1201b32eed81f2857bb69d137a7e7f9c2c872788a1d9008" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[A Smart Rio]]></source>
+    <translation><![CDATA[Río inteligentes]]></translation>
+  </word>
+  <word hash="c9431ebdbd660ab5096999759015a1f610b5851e8913393531d3514624d3a07e" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Nossos Passeios]]></source>
+    <translation><![CDATA[nuestros Tours]]></translation>
+  </word>
+  <word hash="c38f5b1fbdda2d4d27b6d8c7049dd132810d5e649d6abda5c50e5b8eb2783872" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Aluguel de Veículos]]></source>
+    <translation><![CDATA[alquiler de coches]]></translation>
+  </word>
+  <word hash="8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="f868b96162a100308cfa363cc3eacce785d7f3ba75f06c847f0d4b1df3ed6891" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Fale Conosco]]></source>
+    <translation><![CDATA[Contáctenos]]></translation>
+  </word>
+  <word hash="f1445c5e1469a87284a5f3092cb17ec35ddc83a914e9aeb110bda8f5388c1edd" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Reservar]]></source>
+    <translation><![CDATA[Libro]]></translation>
+  </word>
+  <word hash="972ca4446b1ae859f77baaf9961fd203ae2a1ae5652ee57ead7f13015085b3fa" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Reserva via Whatsapp]]></source>
+    <translation><![CDATA[Reserva a través de WhatsApp]]></translation>
+  </word>
+  <word hash="dcf678f6c24684a8fe56207d6cc0aad88c7da9bbc915a03437b56611949daed6" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Reserva via E-mail]]></source>
+    <translation><![CDATA[Reserva a través de correo electrónico]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="0f3d9441cee3586bf1201b32eed81f2857bb69d137a7e7f9c2c872788a1d9008" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[A Smart Rio]]></source>
+    <translation><![CDATA[Río inteligentes]]></translation>
+  </word>
+  <word hash="c9431ebdbd660ab5096999759015a1f610b5851e8913393531d3514624d3a07e" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Nossos Passeios]]></source>
+    <translation><![CDATA[nuestros Tours]]></translation>
+  </word>
+  <word hash="c38f5b1fbdda2d4d27b6d8c7049dd132810d5e649d6abda5c50e5b8eb2783872" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Aluguel de Veículos]]></source>
+    <translation><![CDATA[alquiler de coches]]></translation>
+  </word>
+  <word hash="8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="f868b96162a100308cfa363cc3eacce785d7f3ba75f06c847f0d4b1df3ed6891" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Fale Conosco]]></source>
+    <translation><![CDATA[Contáctenos]]></translation>
+  </word>
+  <word hash="f1445c5e1469a87284a5f3092cb17ec35ddc83a914e9aeb110bda8f5388c1edd" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Reservar]]></source>
+    <translation><![CDATA[Libro]]></translation>
+  </word>
+  <word hash="972ca4446b1ae859f77baaf9961fd203ae2a1ae5652ee57ead7f13015085b3fa" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Reserva via Whatsapp]]></source>
+    <translation><![CDATA[Reserva a través de WhatsApp]]></translation>
+  </word>
+  <word hash="dcf678f6c24684a8fe56207d6cc0aad88c7da9bbc915a03437b56611949daed6" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Reserva via E-mail]]></source>
+    <translation><![CDATA[Reserva a través de correo electrónico]]></translation>
+  </word>
+  <word hash="47d2a515ef2f05b87d688656286a61e4f743da4b878684c7654969db17711c40" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Loading...]]></source>
+    <translation><![CDATA[Cargando ...]]></translation>
+  </word>
+  <word hash="c38f5b1fbdda2d4d27b6d8c7049dd132810d5e649d6abda5c50e5b8eb2783872" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Aluguel de Veículos]]></source>
+    <translation><![CDATA[alquiler de coches]]></translation>
+  </word>
+  <word hash="8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[admin]]></source>
+    <translation><![CDATA[administración]]></translation>
+  </word>
+  <word hash="bd88c3a9b3c42dc706fb4421adaed7e95df25173a78bf80dde7ad0d3a5dbb4ac" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Your Name ]]></source>
+    <translation><![CDATA[su nombre y apellidos ]]></translation>
+  </word>
+  <word hash="009557a4da1e152bdf405ee005a70d6bbdf6a729f1615254d7468133b065fbee" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Email ]]></source>
+    <translation><![CDATA[Email ]]></translation>
+  </word>
+  <word hash="68971283841aecdf1da48428849b3b33164ec5c41d0f3c4d6cea624db5aff8f2" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Subject]]></source>
+    <translation><![CDATA[Sujeto]]></translation>
+  </word>
+  <word hash="fea239f0c9e52ae97b1ba981bec1b0dded59c2850e6c79b97eb7d8112c2ea879" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[
+                        Select Plan
+                        ]]></source>
+    <translation><![CDATA[\n                        Select plan\n                        ]]></translation>
+  </word>
+  <word hash="f9cbb34cb9dc77bec907b1c8241b1c6d5ba019a135d8dc08b349f94dd46327d8" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Personal $29]]></source>
+    <translation><![CDATA[Personal $ 29 de]]></translation>
+  </word>
+  <word hash="79d5d7037b36185cbdfa0917a4869a9536ab6cc595a9b8982f2b56387860fc66" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Enterprise $89]]></source>
+    <translation><![CDATA[Empresa $ 89]]></translation>
+  </word>
+  <word hash="2535e253f8c6a7bf07445190d3a85739d45cbb3397bd72d35a11c51393c82a58" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Business $239]]></source>
+    <translation><![CDATA[Negocio $ 239]]></translation>
+  </word>
+  <word hash="888b8c12e954798b9efa5d0c10687657daeb4f3630e3e1c168cf18c4bd627b20" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[
+                        Additional Installs 
+                        ]]></source>
+    <translation><![CDATA[\n                        Se instala adicionales \n                        ]]></translation>
+  </word>
+  <word hash="d632cd8433ba42adb544e747724a5322b387892709516cf56424739b2e3ef203" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[1 for $10/month]]></source>
+    <translation><![CDATA[1 es $ 10 / mes]]></translation>
+  </word>
+  <word hash="bc18900917a0370cd6663b26a9d4dcab116a6f4b39aaff5e3b76b1947d5e6c67" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[5 for $29/month]]></source>
+    <translation><![CDATA[5 por $ 29 / mes]]></translation>
+  </word>
+  <word hash="7c76b43d46bc9fd9104e74e567b23e274a9fdcb0b42b484f86a7d5ce07a72348" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[10 for $50/month]]></source>
+    <translation><![CDATA[10 es $ 50 / mes]]></translation>
+  </word>
+  <word hash="c74495f2c47e42d3a40addd46268c5935477be80485bd20fe5370c3bf34d4bfc" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[
+                        Additional Storage
+                        ]]></source>
+    <translation><![CDATA[\n                        Almacenamiento adicional\n                        ]]></translation>
+  </word>
+  <word hash="54b9cc10dca2daad390df21473538cc9a127df97c6ebbc4cb646f3de093567ca" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[10GB for $10/month]]></source>
+    <translation><![CDATA[10 GB por $ 10 / mes]]></translation>
+  </word>
+  <word hash="46e0d81431ca1eb5a66422bbcf5744bdb3ee0b138f3eae7f82b4065547992937" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[20GB for $19/month]]></source>
+    <translation><![CDATA[20GB por $ 19 / mes]]></translation>
+  </word>
+  <word hash="d7609831f0b0fc116e93dff6b338bac88bc440acf9cb054b5cf785e2c8e63db4" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[30GB for $25/month]]></source>
+    <translation><![CDATA[30 GB por $ 25 / mes]]></translation>
+  </word>
+  <word hash="fc093eac32d69a2e76525baa5c09be3eab0e953cb73570b53306158751576d87" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[50GB for $35/month]]></source>
+    <translation><![CDATA[50 GB por $ 35 / mes]]></translation>
+  </word>
+  <word hash="7118f3b7df939c08ee68e7fbbd4b021aeaaf631d94c768c56a9ff2f81e84bfe4" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[
+                        Additional RAM
+                        ]]></source>
+    <translation><![CDATA[                        RAM adicional                        ]]></translation>
+  </word>
+  <word hash="ed3db343286a40295d94e145a5fd252b8a673ec0cb10a18052e926f611f5d5af" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[2GB for $15/month]]></source>
+    <translation><![CDATA[2 GB por $ 15 / mes]]></translation>
+  </word>
+  <word hash="e30b9a56c866a00c006aecb0f5224bb8454e65e9e294615736aed91504c65a21" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[4GB for $25/month]]></source>
+    <translation><![CDATA[4 GB por $ 25 / mes]]></translation>
+  </word>
+  <word hash="b42644520fa7efe73240d8ce75730a363c727b4dcb996d5339e85b114d85614c" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[8GB for $35/month]]></source>
+    <translation><![CDATA[8 GB por $ 35 / mes]]></translation>
+  </word>
+  <word hash="5522054ae632d70838d12f0acb61163fc9661e6d9fc7a1df0bc04be265170720" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[12GB for $45/month]]></source>
+    <translation><![CDATA[12 GB por $ 45 / mes]]></translation>
+  </word>
+  <word hash="1bb9dbe1a1f8c010c71c5af1e96331c5881265e56a92a3b989d60201bfa01f62" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[30GB for $75/month]]></source>
+    <translation><![CDATA[30 GB por $ 75 / mes]]></translation>
+  </word>
+  <word hash="c8d17a5db4502386d820174936b3b32e3a13551f48dda0dfcba60914c34894df" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[
+                        Monthly Visitors
+                        ]]></source>
+    <translation><![CDATA[                        Los visitantes mensuales                        ]]></translation>
+  </word>
+  <word hash="bc8596a47d728a5321dc34b3a01656f9554f186cfe51e7225b8d5ab4b4f1bfee" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[50K]]></source>
+    <translation><![CDATA[50K]]></translation>
+  </word>
+  <word hash="02632190f562d26c72a5b5ace8526faf8bae1574c1fd9fa6ca158026f4468b8d" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[100K]]></source>
+    <translation><![CDATA[100K]]></translation>
+  </word>
+  <word hash="67f4158e638a0da09c3fcc8e63266b64e93ad6fd941b4d0756f4dcbaf1ed0abd" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[250K]]></source>
+    <translation><![CDATA[250K]]></translation>
+  </word>
+  <word hash="46743c403622bba71b1284df4904de6fdfa763a56394160ff1e5685df4e7f18a" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[500K]]></source>
+    <translation><![CDATA[500K]]></translation>
+  </word>
+  <word hash="1357436dbab40b379db82da0db6a78f60e02d02196f5fe9f65dcc10c6146af2a" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[1 Million+]]></source>
+    <translation><![CDATA[1 millón +]]></translation>
+  </word>
+  <word hash="a3f4206fc20974106fb7a9f0a3e1564f0da5fd0c2f745ad5657fde37d2c129e4" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Your Message ]]></source>
+    <translation><![CDATA[su mensaje ]]></translation>
+  </word>
+  <word hash="2314a94eb6f5952e45ab640df567f4955288c3f93596ad780a7fa5f08c30a9cd" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Institucional]]></source>
+    <translation><![CDATA[Institucional]]></translation>
+  </word>
+  <word hash="85be53f3b1956a7fa3ebe0571a4c1825b96bdaa08d19ca5c13db48ba3c6841dc" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[  A Smart Rio]]></source>
+    <translation><![CDATA[Río inteligentes]]></translation>
+  </word>
+  <word hash="1cc091647536466c34178408296c69978c1fcdfd26f339dbbdb6449971855912" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[  Nossos Passeios]]></source>
+    <translation><![CDATA[nuestros Tours]]></translation>
+  </word>
+  <word hash="5426ffff8df9590ad4c40e35a9e1fc0fbc25ad91f78c51b203f083b598a1a276" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[  Aluguel de Veículos]]></source>
+    <translation><![CDATA[alquiler de coches]]></translation>
+  </word>
+  <word hash="55f55984b3c5aa6383da5412b53c2539f479271b6920fb8abc3dec80bd90bb56" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[  Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="e7affc711f725c2dba09012190e2ad25e55085001602d726b1aab6ba0c445318" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Faça sua Reserva]]></source>
+    <translation><![CDATA[Para realizar una reserva]]></translation>
+  </word>
+  <word hash="3643582c2576f678cb33cda043413eaf3bab8229d345473329cbaf6c7645f6a3" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Temos os melhores passeios no RJ]]></source>
+    <translation><![CDATA[Tenemos las mejores excursiones en Río de Janeiro]]></translation>
+  </word>
+  <word hash="dd9ed2bbddc77d56ec6ad0d675dd4c399360f3388523e1ab7c7752cd5793eb30" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Segurança e agilidade]]></source>
+    <translation><![CDATA[Seguridad y velocidad]]></translation>
+  </word>
+  <word hash="ae7775b181a6d42a0eb0b7ed1d8713c7e80252e92b0ea1db85c8f9a20bc827ce" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[
+			Reserva Transfer		]]></source>
+    <translation><![CDATA[reserva de traslado]]></translation>
+  </word>
+  <word hash="e370eaf7a02039acb622532c2a40597ce9488c399ed06c04207e600ef7f76b68" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[
+			2018-05-03T21:49:13+00:00		]]></source>
+    <translation><![CDATA[2018-05-03T21: 49: 13 + 00: 00]]></translation>
+  </word>
+  <word hash="e26599693f308c0b2a2459acb2661350c3dfa96ceed6102037842df33db14939" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Alugue seu veículo conosco!]]></source>
+    <translation><![CDATA[Alquilar su auto con nosotros!]]></translation>
+  </word>
+  <word hash="f17bee21d7ccbdb8f1445e92fc226b6a84aef6ea3894b03b34f34536dddd66f6" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Reserve com quem tem credibilidade, qualidade e garantia de um ótimo serviço.]]></source>
+    <translation><![CDATA[Reserva que tiene credibilidad, la calidad y la garantía de un gran servicio.]]></translation>
+  </word>
+  <word hash="85a41633276c71adee1c9932a8aee718949a914132a3317097e137d35e701ce8" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Seu Nome * ]]></source>
+    <translation><![CDATA[Su nombre * ]]></translation>
+  </word>
+  <word hash="17d6220bbd8b7910714355f7bfa27a40293a974182994eb1f0105566934aec67" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Seu Telefone * ]]></source>
+    <translation><![CDATA[Su teléfono * ]]></translation>
+  </word>
+  <word hash="6a5ccf2345f21c307f0a91145b4500face747e6195c2e447d57b5b670603d761" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Seu E-mail * ]]></source>
+    <translation><![CDATA[Su e-mail * ]]></translation>
+  </word>
+  <word hash="81cd1be0dbed17e220cc2e749783a1edbd62ee093bfeb4125ffabea53b2acb85" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Local de Embarque * ]]></source>
+    <translation><![CDATA[Lugar de embarque * ]]></translation>
+  </word>
+  <word hash="48dc85d955184dd3a2e005b6f8f05e8a72147954f24ed724127ae1feea5e71d3" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Local de Destino * ]]></source>
+    <translation><![CDATA[Ubicación de destino * ]]></translation>
+  </word>
+  <word hash="96a1c02f255d8262c2abf28002829c822fb830543d6f9f061811ea54ce9b92a8" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Data de Saída? * ]]></source>
+    <translation><![CDATA[¿Fecha de salida? * ]]></translation>
+  </word>
+  <word hash="ee2f85b01201477533bf24c4907058acd8a9bdfe7a34ba06f020124d463ce6d1" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Hora de Saída * ]]></source>
+    <translation><![CDATA[La hora de salida * ]]></translation>
+  </word>
+  <word hash="d2fca5b5be2ecac3406870c77aeb3b5a01758beeed486a891bb86b35d582fb1f" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Data de Retorno? * ]]></source>
+    <translation><![CDATA[Fecha de regreso? * ]]></translation>
+  </word>
+  <word hash="e841a6864048691cd621ac7b311d931136e5b0ec932ce5949fa22d9b06932aa6" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Hora de Retorno * ]]></source>
+    <translation><![CDATA[Regreso horas * ]]></translation>
+  </word>
+  <word hash="786071afd02740050104a7d67cb29b76739dec699692351f137acc2e7fefe399" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Nº de Adultos * ]]></source>
+    <translation><![CDATA[Adultos Nº * ]]></translation>
+  </word>
+  <word hash="fbca2571f330468e569b7c82e6e571c200b59c5d3c425cf2af0aa5431f3d5a52" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Nº de Crianças * ]]></source>
+    <translation><![CDATA[Niños Nº * ]]></translation>
+  </word>
+  <word hash="d1d1c0fcd2e45aa6e5432c3047fccebb27e578162f8dbfb2a007b9fdfe34e16b" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Idade das Crianças ]]></source>
+    <translation><![CDATA[Los niños de edad ]]></translation>
+  </word>
+  <word hash="e8329585ee02e11df1e72018e1f331898a03096abea3d5efb2b5d897e17debec" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Mensagem ]]></source>
+    <translation><![CDATA[mensaje ]]></translation>
+  </word>
+  <word hash="376be09bafe4c8c48e3b51e0272fd9c29da92dd6f5bd5d42f2576b60bf537455" date="2018-05-18T23:51:58+00:00">
+    <source><![CDATA[Solicitar Orçamento]]></source>
+    <translation><![CDATA[solicitud de presupuesto]]></translation>
+  </word>
+</translations>
